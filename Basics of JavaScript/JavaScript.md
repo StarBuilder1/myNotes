@@ -69,7 +69,7 @@ len = str.length
 
 ### 4. 两种相等运算符
 
-- Strict equal operator 严格相等运算符
+- Strict equal operator
 
 ```javascript
 //No Forced type convertion
@@ -80,7 +80,7 @@ len = str.length
 >> true
 ```
 
-- Loss equal operator 松散相等运算符
+- Loss equal operator
 
 ```javascript
 // Forced type convertion
@@ -124,6 +124,42 @@ const years = new Array(1991,1992,1993)
   - .indexof(…)_查找
   - .include(…)_包含：**使用严格相等运算符**
   - **.length_长度**
+
+## 逻辑 Logistic
+
+### 1. for Loop
+
+:repeat_one: How it work？
+
+```javascript
+//for loop keeps running while condition is TRUE.
+for(let rep=1;rep<=10;rep++){
+    console.log('The num is ${rep}')
+}
+```
+
+:repeat_one: `Continue` and `Break`
+
+```
+for(let rep=1;rep<=10;rep++){
+    if(rep<5){continue;}
+    else{break;}
+}
+```
+
+:repeat_one: **You can use `for` to traverse the array.（But not recommended!!)**
+
+---
+
+### 2. while Loop
+
+```javascript
+rep=0
+while(rep<=10){
+	//not forget to add the loop condition
+	rep++;
+}
+```
 
 ## 函数 FUNCTIONS
 
@@ -219,3 +255,18 @@ const jonas={
 }
 ```
 
+# Start coding
+
+## 1. 插件配置 Plugins
+
+## prettier
+
+**1）加载prettier插件并配置**
+
+![1696583600187](assets/1696583600187.png)
+
+**2）开启“format on save”**
+
+![1696588959998](assets/1696588959998.png)
+
+## code snippits
