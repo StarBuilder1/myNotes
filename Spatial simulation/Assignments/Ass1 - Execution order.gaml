@@ -5,7 +5,6 @@
 */
 model OrderOfExecution
 
-
 global
 {
     int glob_var <- 1;
@@ -13,10 +12,11 @@ global
     init {
     	write "time step:" + cycle;
         write "global variable: " + glob_var;
-        create agent_B number: 3;  
+        create agent_B number: 3;  //此时实际上已经触发了init{}
         create agent_A number: 5;    
         create agent_C number: 2;  
         ask agent_A[0] {
+        	//#1
         	agent_A_var <- agent_A_var + 1;
         	write "Agent A variable from global: " + agent_A_var;
         }
@@ -44,6 +44,7 @@ species agent_A {
     init {
         write "Agent_A variable: " + agent_A_var;
     }    
+    //在每个时间步以后才会执行。
     reflex reflex_A1 {
         write "Agent_A variable: " + agent_A_var;
     }     
@@ -95,5 +96,26 @@ grid CA width: 2 height: 2{
 }
 
 experiment OrderOfExecution type: gui {
+	output {
+        define "Agent A" type:list {
+            species: agent_A;
+            property: agent_A_var;
+            color: #red; // 代理 A 的颜色，可以自定义
+            // 其他显示选项可以根据需要进行自定义
+        }
 
+        define "Agent B" type: list {
+            species: agent_B;
+            property: agent_B_var;
+            color: #green; // 代理 B 的颜色，可以自定义
+            // 其他显示选项可以根据需要进行自定义
+        }
+
+        define "Agent C" type: list {
+            species: agent_C;
+            property: agent_C_var;
+            color: #black; // 代理 C 的颜色，可以自定义
+            // 其他显示选项可以根据需要进行自定义
+        }
+    }
 }
