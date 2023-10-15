@@ -278,3 +278,64 @@ const jonas={
 **2）配置代码片段的规则**
 
 ![1696796486870](assets/1696796486870.png)
+
+## TODO Highlight
+
+**0）添加TODO highlight 插件**
+
+**1）打开settings->选择open settings（json）**
+
+![1697194260907](assets/1697194260907.png)
+
+**2）在json文件中增加此项目**
+
+![1697194195588](assets/1697194195588.png)
+
+## Live Server
+
+Just download it in PLUGINS.
+
+**点击vs下方的“go live”进入插件工作**
+
+Ability：To catch code change immediately.
+
+## 2. 解决问题的步骤&Using online Tools
+
+- **Breakdown a question into several sub-questions.**
+- **Search sub-questions in Google|stack overflow|MDN**
+
+| Q: How to get max value in array?              |
+| ---------------------------------------------- |
+| on Google: ‘javascript get max value in array’ |
+| on stack overflow                              |
+| on MDN                                         |
+
+- **Finishing code and debugging**
+
+## 3. 盒子模型 CSS BOX MODEL
+
+![1697283895389](assets/1697283895389.png)
+
+**Tips:**
+
+- 通常一些元素会自动获得特定的边距。
+- 因此，一般会需要重置所有的margins和paddings。
+
+```
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;	//固定盒子宽高，不会受padding影响而变化
+}
+```
+
+*一些示例：*
+
+```
+body{
+	background-color: xx;
+	font-family: xx;
+	padding: 75px
+}
+```
+

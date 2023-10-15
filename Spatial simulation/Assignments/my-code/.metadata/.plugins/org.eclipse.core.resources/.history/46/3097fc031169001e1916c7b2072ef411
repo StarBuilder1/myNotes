@@ -1,0 +1,70 @@
+/**
+* Name: Ass2CowsModel
+* Based on the internal empty template. 
+* Author: Chen, Yuzhou
+* Tags: 
+*/
+
+
+model Ass2CowsModel
+
+global{
+	int cows_num <- 5;
+	int new_num<-0;
+	init{
+		//Initiate
+        write "-----All cows have come to birth.-----";
+		create cows number: cows_num{
+        	age<-rnd(0,7);
+        	write "Age is:"+age;
+        	write "Are you ready? "+graze;
+        }
+    }
+    reflex changing{
+    	int[] cowAges <- broadcast(cows, age);
+    	if species["cows"].age=15{
+			new_num<-new_num+1;
+		}
+		create cows number: new_num{
+			age<-0;
+		}
+		write "Add number:"+new_num;
+	}
+
+}
+
+species cows skills:[moving]{
+	int age update:age+1;
+	bool graze <- true;
+	
+	reflex shout{
+		write "mooooooo";
+	}
+	reflex move{
+		do wander;
+	}
+	reflex age_report{
+		write "I'm "+age+" years old";
+	}
+
+	reflex die_catch{
+
+		new_num<-0;
+	}
+	aspect default{
+		if age<= 5{draw circle(3) color:#orange;}
+		else{draw circle(3) color:#red;}
+	}
+}
+
+experiment Ass2CowsModel type:gui{
+	output{
+		display map{
+			species cows aspect:default;
+		}
+	}
+	
+}
+
+/* Insert your model definition here */
+

@@ -1,0 +1,97 @@
+/**
+* Name: Ass1changeresult
+* Based on the internal empty template. 
+* Revisor: Chen, Yuzhou
+* Description:  This model demonstrates the order of execution of different parts of a GAMA model.
+*/
+
+/// Code Execution Sequence ///
+//0. Grid: no need to create explicitly
+//1. Global init: set state & create instances
+//2. Simulation time steps:
+//	2-1 global reflex
+//	2-2 agent reflex
+//	2-3 ask operations(if not in init{})
+
+model OrderOfExecutionNewVersion
+
+global
+{
+    int glob_var <- 1 update:glob_var+2;
+    //Add-on item for agent_A initiation
+    int plus_num <-1;
+    
+    init {
+    	write "time step:" + cycle;
+        write "global variable: " + glob_var;
+        //Create species
+        create agent_B number: 3;
+        create agent_A number: 5{
+        	//Initiation with specific value sequence
+        	agent_A_var<-plus_num;
+    		plus_num<-plus_num+1;
+    		write "Agent_A variable: " + agent_A_var;
+        }
+        create agent_C number: 2;      
+    }
+    //global reflex run in global level
+    reflex cyclePrinter {
+    	write "time step:" + cycle;
+    }
+
+    reflex globvarPrinter {
+        write "global variable: " + glob_var;
+    }  
+    reflex CA_AgentChanger {
+        ask CA[0] {
+        	grid_var <- int(rnd(100));
+        } 
+    } 
+}
+
+
+species agent_A {
+	int agent_A_var<-1 update: agent_A_var + 2;
+    reflex reflex_A1 {
+        write "Agent_A variable: " + agent_A_var;
+    }     
+}
+
+species agent_B {
+    int agent_B_var update:agent_B_var+2;
+    init {
+        	agent_B_var <- rnd(2,6);
+        	write "Agent_B variable: " + agent_B_var; 
+    }
+
+    reflex reflex_B1 {
+        write "Agent_B variable: " + agent_B_var;     	
+    }   
+}
+
+species agent_C {
+    float agent_C_var <- 0.0 update:agent_C_var+2.0;	//change #
+    init {
+        write "Agent_C variable: " + agent_C_var; 
+    }
+
+    reflex reflex_C1 {
+        write "Agent_C variable: " + agent_C_var;
+}
+}
+
+grid CA width: 2 height: 2{
+    int grid_var <- grid_x update:grid_var+2;
+    init{
+        write "CA variable: " + grid_var;
+    }
+
+    reflex reflexA{
+        write "CA variable: " + grid_var;
+    }
+}//
+
+experiment OrderOfExecutionNewVersion type: gui {
+	
+}
+
