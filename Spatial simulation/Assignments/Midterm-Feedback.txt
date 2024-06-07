@@ -1,0 +1,16 @@
+Feedback
+The text is well written and reports adequately what you did :)!
+
+Background: describe the background of spatial simulation and give a bigger picture of SpatSim in the context of spatial analysis and modelling. Target it at a reader that could be a student next year, who wants to understand what Spatial Simulation is and what it can do, who wants to understand what to expect from the course. Do not relate directly related to any assignments here.
+
+Assignment reports: 
+* Try to avoid the use of "I" (like in any n scientific text). 
+* Figure numbering should be continued  over the document to be unambiguous (there are several "Fig.1" in your text.
+* Cross-reference figures in the text.
+
+Try to meet the 1-page restriction by concise writing, not by formatting with small fonts and no line spacing ;).
+
+Text highlighted in yellow is problematic. I can expand on it in more detail, today in class. Please ask for me, if you have questions.
+Text in green highlight good parts / formulations.
+
+:)

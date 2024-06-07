@@ -1,0 +1,19 @@
+asso.：
+Nazarkulova Ainura
+
+#class arrangement
+
+Oct 9: Josef Strobl: Intro and Overview
+Oct 16: Josef Strobl: Esri Living Atlas
+Oct 23: Vahan Manukyan (Yerevan State University) - Creating and sharing web maps 
+Oct 30: Piotr Trzepacz (JU Krakow) - 
+Nov 6: Jana Procházková (Brno U of Technology) - Lidar point cloud registration methods for outdoor environment
+Nov 13: Jed Long (University of Western Ontario, CA) - Understanding patterns of individual mobility using spatial graphs
+Nov  20: Artak Piloyan (Yerevan State University) - Measuring Rural Accessibility in the GIS Environment: Case Study of Armenia
+Nov 27: Michael Andorfer/Caro Atzl (Research Studio iSPACE) - Data modeling for National Park Berchtesgaden (tbc)
+Dec 4: Robert Vogler (PLUS Social Geography) - Spatially Enabled Learning: Concept, theoretical background and implementation in the u3Green project (tbc)
+Dec 11: Maciej Grajzer (AMU Poznan) - Designing an App with Experience Builder
+Dec 18: Florian Schöpflin (Research Studio iSPACE) - Problems and challenges of spatio-temporal high-resolution mobile phone data in the context of mobility planning
+Jan 8: Emilio José Illán Fernández (guest researcher) - The artificialisation of soils: how soil sealing silently affects our daily lives 
+Jan 15: Vít Pászto (UP Olomouc) - Where does the city end? A geospatial analysis of rural-urban fringe. 
+Jan 22: Zdena Dobešová (UP Olomouc) - Visual programming in GIS software 

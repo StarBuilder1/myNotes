@@ -1,0 +1,129 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{28757F45-7BBA-4348-9B00-BC68BE44108C}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{28757F45-7BBA-4348-9B00-BC68BE44108C}.rft.xml",
+      "startTime" : "638414738720000000",
+      "endTime" : "638414738720000000",
+      "validationMessages" : [
+        "The dataset variable 'Raster' is not assigned."
+      ],
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Parameter 'Raster' is missing or invalid. Bind failed in function 'Hillshade' [Hillshade Function].",
+            "Type" : 100
+          },
+          {
+            "Text" : "Failed.",
+            "Type" : 100
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{796789A2-03B5-49BF-B9C9-7FF922AE66C4}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{796789A2-03B5-49BF-B9C9-7FF922AE66C4}.rft.xml",
+      "startTime" : "638406548960000000",
+      "endTime" : "638406548960000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{0D2A29F8-319A-41A6-BB65-9FDB0ED5DAD6}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{0D2A29F8-319A-41A6-BB65-9FDB0ED5DAD6}.rft.xml",
+      "startTime" : "638407043770000000",
+      "endTime" : "638407043770000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{765EA942-CAD7-4E45-8E7C-056F1D412C1E}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Hillshade",
+      "description" : "Creates a 3D representation of the surface, with the sun's relative position taken into account for shading the image.",
+      "rftPath" : "Hillshade_{765EA942-CAD7-4E45-8E7C-056F1D412C1E}.rft.xml",
+      "startTime" : "638414738770000000",
+      "endTime" : "638414738770000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}

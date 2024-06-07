@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+ummisco.gaml.editbox.provider.GAML_Default=\#COMMENT\r\n\#Thu Dec 07 16\:50\:17 GMT+01\:00 2023\r\nFillSelected\=true\r\nHighlightDrawLine\=false\r\nBuilder\=Text\r\nBorderColor\=00bbbb\r\nExpandBox\=false\r\nBorderWidth\=1\r\nHighlightColorType\=0\r\nHighlightWidth\=1\r\nHighlightOne\=true\r\nName\=Default\r\nBorderLineStyle\=0\r\nCirculateLevelColors\=false\r\nHighlightLineStyle\=0\r\nFillOnMove\=false\r\nNoBackground\=false\r\nFillGradient\=false\r\nFillKeyModifier\=Alt\r\nFillSelectedColor\=ffffc4\r\nRoundBox\=true\r\nHighlightColor\=000000\r\nBorderDrawLine\=false\r\nFillGradientColor\=null\r\nColors\=null-d0dd9b-cdd8b9-e9f58b\r\nAlpha\=0\r\nBorderColorType\=0\r\n
+ummisco.gaml.editbox.provider.GAML_default=Default
+ummisco.gaml.editbox.provider.GAML_enabled=true
+ummisco.gaml.editbox.provider.GAML_fileNames=*.gaml
+ummisco.gaml.editbox.provider.Text_Default=\#COMMENT\r\n\#Thu Dec 07 16\:50\:17 GMT+01\:00 2023\r\nFillSelected\=true\r\nHighlightDrawLine\=false\r\nBuilder\=Text\r\nBorderColor\=00bbbb\r\nExpandBox\=false\r\nBorderWidth\=1\r\nHighlightColorType\=0\r\nHighlightWidth\=1\r\nHighlightOne\=true\r\nName\=Default\r\nBorderLineStyle\=0\r\nCirculateLevelColors\=false\r\nHighlightLineStyle\=0\r\nFillOnMove\=false\r\nNoBackground\=false\r\nFillGradient\=false\r\nFillKeyModifier\=Alt\r\nFillSelectedColor\=ffffc4\r\nRoundBox\=true\r\nHighlightColor\=000000\r\nBorderDrawLine\=false\r\nFillGradientColor\=null\r\nColors\=null-d0dd9b-cdd8b9-e9f58b\r\nAlpha\=0\r\nBorderColorType\=0\r\n
+ummisco.gaml.editbox.provider.Text_default=Default
+ummisco.gaml.editbox.provider.Text_enabled=true
+ummisco.gaml.editbox.provider.Text_fileNames=*.txt,*.*

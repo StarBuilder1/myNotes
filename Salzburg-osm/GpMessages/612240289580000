@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 2023年12月21日 16:23:10</msg><msg code="0" type="0">Con( IsNull(Raster(r"new_base_dem.tif")) ,-1,Raster(r"new_base_dem.tif"))</msg><msg code="0" type="3">Succeeded at 2023年12月21日 16:23:10 (Elapsed Time: 0.34 seconds)</msg></messages>

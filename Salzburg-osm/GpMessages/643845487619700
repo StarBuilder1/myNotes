@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 2023年12月22日 1:09:55</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "d:\software\arcgispro03\Resources\ArcToolbox\scripts\calculategeometry.py", line 366, in &lt;module&gt;
+    CalculateGeometry(fc, properties, lUnit, aUnit, cs, cformat)
+  File "d:\software\arcgispro03\Resources\ArcToolbox\scripts\calculategeometry.py", line 184, in CalculateGeometry
+    geomValue = eval(geomCalcs[calcProp[1].upper()])
+KeyError: '#'
+</msg><msg code="0" type="0">Failed script Calculate Geometry Attributes...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGeometryAttributes).</msg><msg code="0" type="3">Failed at 2023年12月22日 1:09:55 (Elapsed Time: 0.62 seconds)</msg></messages>

@@ -1,0 +1,1832 @@
+2023/10/23 08:31:16
+Five.
+五。
+
+2023/10/23 08:31:24
+The ID w 2023 years when this but for this morning I am more than happy to welcome the gnocchi. I'm from the year ahm state university.
+ID w 2023 年，但今天早上我非常高兴地欢迎面疙瘩。我来自ahm州立大学。
+
+2023/10/23 08:31:25
+HMM.
+嗯。
+
+2023/10/23 08:31:30
+I.
+我。
+
+2023/10/23 08:31:34
+Thank you.
+谢谢。
+
+2023/10/23 08:31:37
+Okay.
+好。
+
+2023/10/23 08:31:50
+Thanks.
+谢谢。
+
+2023/10/23 08:32:04
+Thanks.
+谢谢。
+
+2023/10/23 08:32:35
+At the end, when another law school or will be moderating the q and a, feel free to open your microphone during the talk, please make sure that your microphones are being kept muted.
+最后，当另一所法学院或将主持问答时，请在演讲期间随时打开麦克风，请确保您的麦克风保持静音。
+
+2023/10/23 08:32:41
+Thank you.
+谢谢。
+
+2023/10/23 08:33:11
+Directional idea of someone.
+某人的方向性想法。
+
+2023/10/23 08:33:18
+OH.
+哦。
+
+2023/10/23 08:33:23
+Thanks.
+谢谢。
+
+2023/10/23 08:33:27
+Okay.
+好。
+
+2023/10/23 08:33:29
+Thanks.
+谢谢。
+
+2023/10/23 08:33:59
+I'm with that I guess we can kick it off into today's lecture. You can all already see the topic share. They're creating and sharing web maps um and this is a basic, and at the same time very fundamental topic today because um as we all know web maps are, not just maps on the web. They surf in a way a different purpose than traditional maps, where we had a one directional idea of somebody to also over map and someone else hopefully waits. The map a web maps are much more frames for dialogue. A once frameworks for interaction a and that's why the creation and of course sharing, creating and not sharing a web map would be kind of a contradiction in terms. A is an absolutely key way of doing yeah we call it sometimes geo communication which is the foundation, also for public participation. Um, but with that I don't want to take any more time away from the speaker today. A welcome over to you. Please unmute yourself and take it away from him.
+我想我们可以把它拉到今天的讲座中。你们都已经可以看到主题共享。他们正在创建和共享 web 地图，这是一个基本的，同时也是非常基本的话题，因为我们都知道 web 地图不仅仅是网络上的地图。他们冲浪的方式与传统地图不同，我们有一个方向的想法，有人也在地图上，其他人希望等待。地图和网络地图更多的是对话框架。一个曾经的交互框架 a 这就是为什么创建，当然共享，创建和不共享 web 地图在术语上会有点矛盾。A是做事的绝对关键方式，我们有时称之为地理通信，这是基础，也是公众参与的基础。嗯，但有了这个，我不想再从演讲者那里抽出任何时间了。欢迎您。请自己取消静音并将其从他手中拿走。
+
+2023/10/23 08:34:01
+Thank you.
+谢谢。
+
+2023/10/23 08:34:05
+Thank you. Thank you, professor sharp, Bill. Hello, dear students, dear participants.
+谢谢。谢谢你，夏普教授，比尔。亲爱的同学们，各位同学，各位同学们，大家好。
+
+2023/10/23 08:34:08
+I hope my screen visible for you.
+我希望我的屏幕对你可见。
+
+2023/10/23 08:34:15
+And then the topic of today is creating and sharing web maps. Um, what is a web map?
+然后今天的主题是创建和共享 web 地图。嗯，什么是 web 地图？
+
+2023/10/23 08:34:27
+Um, not just web map is an interactive display of geographic information that you can use to tell stories, and answer questions. Um, they may contain a base map.
+嗯，不仅仅是 web 地图是地理信息的交互式显示，可用于讲述故事和回答问题。嗯，它们可能包含底图。
+
+2023/10/23 08:34:38
+And a set of data layers, which also referred as the operational layers, many of which include interactive popup Windows with information about the data.
+以及一组数据图层，也称为业务图层，其中许多包括包含有关数据的交互式弹出窗口。
+
+2023/10/23 08:34:47
+Web maps can also be time enabled, have default extent and provide navigation tools to Penn and zone.
+Web 地图也可以启用时间，具有默认范围并提供指向宾夕法尼亚州和区域的导航工具。
+
+2023/10/23 08:34:53
+In this example, we can see the monthly snowpack.
+在此示例中，我们可以看到每月的积雪。
+
+2023/10/23 08:34:57
+Of the earth.
+的地球。
+
+2023/10/23 08:35:02
+Starting from the period of 2000 until 2023.
+从2000年到2023年。
+
+2023/10/23 08:35:10
+Okay, thanks.
+好的，谢谢。
+
+2023/10/23 08:35:13
+And we can see on a winter amount, um, the snow ozzie area with the snow is very, um.
+我们可以看到冬天的数量，嗯，有雪的雪区非常，嗯。
+
+2023/10/23 08:35:18
+A covered with snow areas.
+被雪覆盖的地区。
+
+2023/10/23 08:35:21
+City.
+城市。
+
+2023/10/23 08:35:41
+A when we interact with the arise randomly putting down places, we can see the information about the snow water equivalent, 75 millimeters. It's mean that after melting in this area, it will probably a have 75 millimetres of melted water.
+A 当我们与随机放下的地方互动时，我们可以看到有关雪水当量的信息，75 毫米。这意味着在该区域融化后，它可能会有75毫米的融化水。
+
+2023/10/23 08:35:51
+HMMM.
+嗯。
+
+2023/10/23 08:35:57
+A web map support visualization, editing, analysis, time, and they can be viewed in various ways, including mobile devices, desktop application and web browsers.
+web 地图支持可视化、编辑、分析、时间，并且可以通过多种方式查看它们，包括移动设备、桌面应用程序和 web 浏览器。
+
+2023/10/23 08:35:59
+Huh?
+哼？
+
+2023/10/23 08:36:02
+OH.
+哦。
+
+2023/10/23 08:36:03
+We can use nor address.
+我们可以使用或地址。
+
+2023/10/23 08:36:07
+Online environment too.
+在线环境也是如此。
+
+2023/10/23 08:36:14
+Layers to create web map.
+用于创建 web 地图的图层。
+
+2023/10/23 08:36:16
+Thanks.
+谢谢。
+
+2023/10/23 08:36:24
+Share it through the mobile application desktop and web applications. Um, we can share it through the url link.
+通过移动应用程序桌面和 Web 应用程序共享它。嗯，我们可以通过网址链接分享它。
+
+2023/10/23 08:36:35
+Thanks.
+谢谢。
+
+2023/10/23 08:36:42
+Thanks.
+谢谢。
+
+2023/10/23 08:36:43
+A there are few address information products a one of its static map, which is a stationary graphic representation of the spatial relationship of entities within area. Um, it can be printed on paper or produced as a digital file.
+A的地址信息产品很少，其静态地图之一，它是区域内实体空间关系的静态图形表示。嗯，它可以打印在纸上或作为数字文件制作。
+
+2023/10/23 08:36:49
+Thank you.
+谢谢。
+
+2023/10/23 08:36:55
+Um, on this example, we can see a geology come map of the earth, um, where, um, a different um, or areas with different structures have different colors according to the legend.
+嗯，在这个例子中，我们可以看到地球的地质图，嗯，哪里，嗯，不同的um，或者根据图例具有不同结构的区域有不同的颜色。
+
+2023/10/23 08:37:00
+A web map, another.
+另一个 web 地图。
+
+2023/10/23 08:37:11
+For example, a web map is a web based interactive visualization of your spatial content in two dimensions. They can be viewed and acquired on various devices.
+例如，web 地图是基于 Web 的二维空间内容的交互式可视化。可以在各种设备上查看和获取它们。
+
+2023/10/23 08:37:17
+Um, here we can see in this example, the covid cases, forger by state.
+嗯，在这里我们可以看到在这个例子中，covid 病例，按州伪造。
+
+2023/10/23 08:37:17
+Za, za, za, za, za.
+哦，不，不，不，不。
+
+2023/10/23 08:37:20
+And when are you going to interact with it?
+你打算什么时候与它互动？
+
+2023/10/23 08:37:20
+TO.
+自。
+
+2023/10/23 08:37:22
+Randomly.
+随机。
+
+2023/10/23 08:37:24
+OH.
+哦。
+
+2023/10/23 08:37:29
+Lol.
+大声笑。
+
+2023/10/23 08:37:32
+Zac.
+扎克。
+
+2023/10/23 08:37:35
+On the p popup window, we can read um the information about covid cases, confirmed issues, recovered third, conductive issues.
+在p弹出窗口中，我们可以阅读有关covid病例，确诊问题，恢复第三，传导问题的信息。
+
+2023/10/23 08:37:54
+A website can be viewed from different perspectives.
+可以从不同的角度查看网站。
+
+2023/10/23 08:38:01
+Um, here on this example, we can see the website with the three data.
+嗯，在这个例子中，我们可以看到带有三个数据的网站。
+
+2023/10/23 08:38:11
+Oops.
+哎呀。
+
+2023/10/23 08:38:15
+Which is from the Netherlands example, um, it's composed of different, um, types of 3D 3D dimensional files a, including general hate file, topography and other.
+这是来自荷兰的例子，嗯，它由不同的，嗯，类型的3D 3D维文件组成，包括一般的仇恨文件，地形和其他。
+
+2023/10/23 08:38:33
+And we can see it all that is on three-dimensional mode. And on popup window. We can also, um, interact with it and read a information about building histories and everything. Um, ah, around this, um.
+我们可以在三维模式下看到这一切。并在弹出窗口中。我们也可以，嗯，与它互动，并阅读有关建立历史和一切的信息。嗯，啊，围绕这个，嗯。
+
+2023/10/23 08:38:35
+Website.
+网站。
+
+2023/10/23 08:38:41
+Another example?
+再举个例子？
+
+2023/10/23 08:38:41
+MO.
+莫。
+
+2023/10/23 08:38:46
+MO.
+莫。
+
+2023/10/23 08:38:54
+Mobike? Mobike.
+摩拜单车？摩拜单车。
+
+2023/10/23 08:38:58
+Type of um of the um, informative information product is a time map which includes one or more temporal layers that represent change over time. They can be played to visualize how the information in the map change over time.
+UM的UM类型，信息信息产品是一个时间地图，其中包括一个或多个表示随时间变化的时间层。可以播放它们以可视化地图中的信息如何随时间变化。
+
+2023/10/23 08:38:59
+ZA.
+后。
+
+2023/10/23 08:39:01
+MO.
+莫。
+
+2023/10/23 08:39:02
+Um, on this example, we can see.
+嗯，在这个例子中，我们可以看到。
+
+2023/10/23 08:39:06
+How?
+如何？
+
+2023/10/23 08:39:06
+The household statistics in Mexico then.
+当时墨西哥的家庭统计数据。
+
+2023/10/23 08:39:11
+Thank you.
+谢谢。
+
+2023/10/23 08:39:17
+Find the data time. It's, um, um, information from 2010 and 2010 and twenty. Comparing, um, there's whew.
+查找数据时间。这是，嗯，嗯，2010年和2010年的信息。比较，嗯，有呜呜。
+
+2023/10/23 08:39:24
+Before me, there average of options to room bedrooms per home.
+在我之前，每个家庭的平均房间卧室选择。
+
+2023/10/23 08:39:30
+And when we're dragging?
+当我们拖拽时？
+
+2023/10/23 08:39:33
+Alright.
+好。
+
+2023/10/23 08:39:35
+You see my.
+你看我的。
+
+2023/10/23 08:39:39
+Screen.
+屏幕。
+
+2023/10/23 08:39:50
+Thank you.
+谢谢。
+
+2023/10/23 08:39:55
+Okay, sweet women. Okay, when we're dragging the information, we can compare on the same area, same place, the information.
+好的，亲爱的女人。好的，当我们拖动信息时，我们可以在同一区域，同一地点，信息上进行比较。
+
+2023/10/23 08:39:57
+From 2010 to 2020.
+从2010年到2020年。
+
+2023/10/23 08:40:06
+Um, followed by my connection.
+嗯，其次是我的联系。
+
+2023/10/23 08:40:08
+Thank you.
+谢谢。
+
+2023/10/23 08:40:10
+Just click refresh.
+只需单击刷新。
+
+2023/10/23 08:40:38
+Thanks.
+谢谢。
+
+2023/10/23 08:40:54
+The data loading carefully, but.
+数据加载小心，但是。
+
+2023/10/23 08:40:58
+Build Tencent and it will work.
+建立腾讯，它将起作用。
+
+2023/10/23 08:40:59
+SO.
+所以。
+
+2023/10/23 08:41:10
+Here we can compare on the same place two different datas, selecting from 2010 and 2020 and when when we click on the.
+在这里，我们可以在同一地方比较两个不同的数据，从 2010 年和 2020 年以及何时单击时选择。
+
+2023/10/23 08:41:13
+MHM.
+嗯。
+
+2023/10/23 08:41:18
+Thanks.
+谢谢。
+
+2023/10/23 08:41:24
+Area in particular area we can read that um, in twelve in 2020 it was 565,665 homes must appeal area and.
+我们可以读到的特别区域，嗯，在 2020 年的 12 个地区是 565,665 个家庭必须上诉区域和。
+
+2023/10/23 08:41:28
+We trying to do the same.
+我们试图做同样的事情。
+
+2023/10/23 08:41:31
+In 2020.
+2020年。
+
+2023/10/23 08:41:36
+We can see its growth, another figure.
+我们可以看到它的增长，另一个数字。
+
+2023/10/23 08:41:39
+Um, another example of.
+嗯，另一个例子。
+
+2023/10/23 08:41:44
+Time up, we can see the national park visits.
+时间到了，我们可以看到国家公园的参观。
+
+2023/10/23 08:41:46
+The United States.
+美国。
+
+2023/10/23 08:41:48
+Thanks.
+谢谢。
+
+2023/10/23 08:42:05
+MHM.
+嗯。
+
+2023/10/23 08:42:10
+Comparing two thousand nineteen, two thousand twenty cases and the arrows with the up direction, means that a change comparing from 2009 and nineteen two thousand twenty we have growth of visitors, but when 3~1%.
+比较两千一十九例，两千二十例和箭头向上的方向，意味着与2009年和一万九千二千二十相比，我们的访客有所增加，但当3~1%。
+
+2023/10/23 08:42:11
+And?
+和？
+
+2023/10/23 08:42:30
+Um, another example, that's a means that we have a, um, the arrow down with that, we have a decrease of visitors in 2020 compared with 2019.
+嗯，另一个例子，这意味着我们有一个，嗯，向下箭头，与 2019 年相比，我们在 2020 年的访客数量有所减少。
+
+2023/10/23 08:42:32
+Example of time.
+时间示例。
+
+2023/10/23 08:42:38
+Za, za, za, za.
+哦，不，不，不。
+
+2023/10/23 08:42:52
+Can show special navigation, a temporal changes or alteration of layer, and same properties such as transparency.
+可以显示特殊导航、图层的时态变化或更改以及相同的属性，例如透明度。
+
+2023/10/23 08:42:54
+Mhm, za.
+嗯，周六。
+
+2023/10/23 08:42:55
+On this example, we can see.
+在这个例子中，我们可以看到。
+
+2023/10/23 08:42:56
+MHM.
+嗯。
+
+2023/10/23 08:43:07
+A in the United States line, this is case and when we interact with it.
+在美国行中，这是情况，当我们与之互动时。
+
+2023/10/23 08:43:10
+And opening the legend.
+并打开传说。
+
+2023/10/23 08:43:10
+Mhm. Thanks, zac.
+嗯，谢谢，扎克。
+
+2023/10/23 08:43:17
+You can see a bobble.
+你可以看到一个泡泡。
+
+2023/10/23 08:43:33
+We can see that's a change over time and won a green dot. It's been one case of lyme disease and a wee the polygons with the blue a shade blue colored. Um, it's a mean that they're displaces high incidence states for lyme disease.
+我们可以看到，随着时间的推移，这是一个变化，并赢得了一个绿点。这是一例莱姆病和蓝色的多边形。嗯，这意味着他们取代了莱姆病的高发病率州。
+
+2023/10/23 08:43:35
+Thanks.
+谢谢。
+
+2023/10/23 08:43:47
+Zac.
+扎克。
+
+2023/10/23 08:43:52
+And last but not least, type is a chart, not a formatted product, which is a graphic representation of tabular data, and they can help us to understand the patterns, trend, structure and relationships within our data.
+最后但并非最不重要的一点是，类型是图表，而不是格式化产品，它是表格数据的图形表示形式，它们可以帮助我们了解数据中的模式、趋势、结构和关系。
+
+2023/10/23 08:43:58
+MO.
+莫。
+
+2023/10/23 08:44:02
+For this example, we can see the, um, average pop music sales by states, the meaning of person mean in percentages.
+在这个例子中，我们可以看到，嗯，各州的平均流行音乐销售额，人的意思以百分比表示。
+
+2023/10/23 08:44:06
+Um, and, um, another.
+一个，嗯，另一个。
+
+2023/10/23 08:44:10
+A example of a visualization of tabular data is a histogram.
+表格数据可视化的一个示例是直方图。
+
+2023/10/23 08:44:26
+Which means that we can, um, see the mean or download distribution of music, um, who can see the mean median and start a division on this histogram at the same time.
+这意味着我们可以，嗯，看到音乐的平均值或下载分布，嗯，谁可以看到平均中位数并同时在这个直方图上开始除法。
+
+2023/10/23 08:44:35
+Um, when we creating a web map, a web layer, another, um.
+嗯，当我们创建一个 web 地图时，一个 web 图层，另一个，嗯。
+
+2023/10/23 08:45:00
+A web application. So, um, we need to decide a how we are going to share it with others. Um, in august online we have a four options for sharing. First its owner type, which means a we assured keeping our maps web maps in private.
+一个网络应用程序。所以，嗯，我们需要决定如何与他人分享。嗯，在八月在线，我们有四个共享选项。首先是它的所有者类型，这意味着我们保证将我们的地图网络地图保密。
+
+2023/10/23 08:45:11
+A second is an organization. It's mean we're sharing maps with everyone standing in this order as online organization.
+二是组织。这意味着我们正在与作为在线组织按此顺序站立的每个人共享地图。
+
+2023/10/23 08:45:22
+A third, um, is everyone, which means a, it's public and everyone is allowed to see our web mocks and fourth.
+第三个，嗯，是每个人，这意味着a，它是公开的，每个人都被允许看到我们的网络模拟，第四个。
+
+2023/10/23 08:45:25
+Option.
+选择。
+
+2023/10/23 08:45:43
+Group a, which means we are deciding a specific a amount of people standing on the group, and sharing among the users apologize online. There's four man a types for a sharing a web maps.
+A组，这意味着我们正在决定站在小组中的特定人数，并在用户之间分享在线道歉。有四个人 a 类型用于共享 web 地图。
+
+2023/10/23 08:45:46
+Um, so, um.
+嗯，所以，嗯。
+
+2023/10/23 08:46:05
+Let's create some web map and share it as an application for those who are able. I will share the data to the Microsoft teams and, um, um, I will put a those steps slowly for those who are able to join me.
+让我们创建一些 web 地图并将其作为应用程序共享给有能力的人。我将把数据分享给Microsoft团队，嗯，嗯，我会慢慢地为那些能够加入我的人制定这些步骤。
+
+2023/10/23 08:46:10
+AI will try to share.
+AI将尝试分享。
+
+2023/10/23 08:46:14
+While.
+而。
+
+2023/10/23 08:46:47
+Um, your please, could you help me? I can't find a place when I can.
+嗯，请问，你能帮帮我吗？我找不到地方。
+
+2023/10/23 08:47:05
+I knew that by some z.
+我知道一些z。
+
+2023/10/23 08:47:13
+Upload a file or write a message. You look um, in chat. I'm go to the chat. Um, I am just writing hello. Yes, there is the option to attach file too but I have never done myself so we can try today. Okay, um, I don't find a place where I can write a message, check the this um itself.
+上传文件或撰写消息。你看起来嗯，在聊天。我要去聊天。嗯，我只是在写你好。是的，也可以选择附加文件，但我从来没有自己做过，所以我们今天可以尝试。好吧，嗯，我找不到可以写消息的地方，检查一下这个嗯本身。
+
+2023/10/23 08:47:16
+MHM.
+嗯。
+
+2023/10/23 08:47:20
+I think that from the left, a, if you look, um, I think, can you see this? Um, um.
+我认为从左边看，如果你看，嗯，我想，你能看到这个吗？嗯，嗯。
+
+2023/10/23 08:47:22
+MHM.
+嗯。
+
+2023/10/23 08:47:24
+Manual buffer a themes.
+手动缓冲主题。
+
+2023/10/23 08:47:45
+Yeah, I see that many of our teams. There are people question and question. People raise ahead. But I don't find a place where I was hiding hello. And I don't know if you can see that. Maybe it's popping up with, um, some this red spot, a red point. It should be.
+是的，我看到我们的许多团队。有人质疑和质疑。人们提前提出。但是我没有找到我躲过的地方你好。我不知道你是否能看到这一点。也许它突然出现，嗯，一些这个红点，一个红点。应该是。
+
+2023/10/23 08:47:47
+Or you go just.
+或者你去吧。
+
+2023/10/23 08:47:49
+Now maybe you can see better.
+现在也许你可以看得更清楚。
+
+2023/10/23 08:47:55
+I don't try to stop the sharing and trying to find a chat.
+我不会试图停止分享并试图找到聊天。
+
+2023/10/23 08:48:00
+Okay, now it's just from the left. Um, when they all.
+好的，现在它只是从左边开始。嗯，当他们都。
+
+2023/10/23 08:48:05
+Thank you.
+谢谢。
+
+2023/10/23 08:48:07
+Icons are coming in a min. You like q and a is second name, yes.
+图标将在一分钟内出现。你喜欢q，a是第二个名字，是的。
+
+2023/10/23 08:48:28
+Before it's checked or you have maybe different than things even I I I find a chart. Okay, good, wonderful. So then thank you John. Day a yes. No, next to it to chat. Okay, maybe q and a you can also attach some file. No here you cannot just chat.
+在检查之前，或者你可能与事情不同，即使我我找到一个图表。好，好，太好了。所以谢谢你，约翰。一天是的。不，旁边聊天。好的，也许q和a你也可以附加一些文件。不，在这里你不能只是聊天。
+
+2023/10/23 08:48:30
+There is a chat.
+有聊天。
+
+2023/10/23 08:48:38
+It's separate. If you cannot, you can go. There are three dots and Mo maybe you can find their chat.
+它是分开的。如果你不能，你可以去。有三个点和Mo也许你可以找到他们的聊天。
+
+2023/10/23 08:49:02
+Can you see the chat meeting informal language and speech. Now I can find z chat. Maybe it's disabled from my side. I didn't do any things in this this because I have the same, I think roll as you are or maybe not soon. Okay, you can send me on so chat bubbles, okay?
+你能看到聊天会议的非正式语言和语音吗？现在我可以找到z聊天。也许它从我这边被禁用了。我在这方面没有做任何事情，因为我有同样的，我认为像你一样滚动，或者可能不会很快。好的，你可以给我发一些聊天泡泡，好吗？
+
+2023/10/23 08:49:12
+Um, you can send me VIA WhatsApp if you can and I can attach this file VIA the chat. If it's not so big, is it fine?
+嗯，如果可以的话，你可以通过WhatsApp给我发邮件，我可以通过聊天附加这个文件。如果不是那么大，可以吗？
+
+2023/10/23 08:49:17
+Okay, it's fine. Oh, I will send it.
+好的，没关系。哦，我会发送的。
+
+2023/10/23 08:49:20
+I'll send right now.
+我现在就送。
+
+2023/10/23 08:49:33
+A guy sent it VIA email, email. Okay, I need time for the emails. Sorry.
+一个人通过电子邮件发送了它，电子邮件。好的，我需要时间处理电子邮件。不好意思。
+
+2023/10/23 08:49:50
+I said it and.
+我说了，然后。
+
+2023/10/23 08:50:00
+Um, while we're share this, um, information csv file, I will, um, explain, um, what you're going to do here.
+嗯，当我们分享这个，嗯，信息csv文件时，我会，嗯，解释，嗯，你要在这里做什么。
+
+2023/10/23 08:50:07
+Um, so, um, we are going to share mine.
+一个，所以，嗯，我们将分享我的。
+
+2023/10/23 08:50:13
+Again, so we are going to create.
+同样，我们将创建。
+
+2023/10/23 08:50:27
+A web map which, um, uh includes the mountains of Armenia and Armenian highlands and a first, what are we going to do? We should acri eight.
+一个网络地图，嗯，呃包括亚美尼亚和亚美尼亚高地的山脉，第一个，我们要做什么？我们应该八。
+
+2023/10/23 08:50:37
+I'm a information data which need to sample the data, the data we are going to gain.
+我是一个信息数据，需要对数据进行采样，我们将要获得的数据。
+
+2023/10/23 08:50:41
+Thanks.
+谢谢。
+
+2023/10/23 08:50:41
+Today, it's from mostly from Wikipedia.
+今天，它主要来自维基百科。
+
+2023/10/23 08:50:47
+We're going to.
+我们要去。
+
+2023/10/23 08:51:12
+We are going to collect such kind of files, select from a or the name of the mount or the elevation, the range munt where it's um, where words, composing, standing, and also the picture.
+我们将收集此类文件，从安装或海拔的名称，um的范围，单词，作曲，站立以及图片中选择。
+
+2023/10/23 08:51:20
+All those information and also the coordinates latitude and longitude which are going to a get from.
+所有这些信息以及坐标纬度和经度，都将从中获取。
+
+2023/10/23 08:51:21
+MHM.
+嗯。
+
+2023/10/23 08:51:30
+A Google alert, um, or Google maps, um, and um, all this information we need to assemble in a, in a csv file.
+谷歌警报，嗯，或谷歌地图，嗯，嗯，所有这些信息我们需要在一个csv文件中组合在一起。
+
+2023/10/23 08:51:33
+Let me show you this file.
+让我给你看这个文件。
+
+2023/10/23 08:51:44
+Okay, I have uploaded this file so everyone may give access. Can you see Ellen? Can you see?
+好的，我已经上传了这个文件，所以每个人都可以授予访问权限。你能看到艾伦吗？你能看到吗？
+
+2023/10/23 08:51:51
+I'm on the it on the chat, on the chat.
+我在聊天中，在聊天中。
+
+2023/10/23 08:52:11
+Um, is it from a user struggle? No, no, um, it's from me. I think, um, in Jacques we cannot really differentiate from, I mean I can not send directly I think is not yet uploaded. So, okay, none can see in the chat.
+嗯，是来自用户斗争吗？不，不，嗯，是我写的。我想，嗯，在雅克我们真的无法区分，我的意思是我不能直接发送我认为还没有上传。所以，好吧，没有人可以在聊天中看到。
+
+2023/10/23 08:52:15
+So it's missing chat?
+所以它缺少聊天？
+
+2023/10/23 08:52:16
+And?
+和？
+
+2023/10/23 08:52:21
+There is a mountain so far, media file.
+到目前为止有一座山，媒体文件。
+
+2023/10/23 08:52:34
+My name is monkeys from Minnesota, so we can see, okay, Lucas can see helene. You can just try, maybe look at chat.
+我的名字是来自明尼苏达州的猴子，所以我们可以看到，好吧，卢卡斯可以看到海伦。你可以试试，也许看看聊天。
+
+2023/10/23 08:52:37
+Thank you, Lucas.
+谢谢你，卢卡斯。
+
+2023/10/23 08:52:45
+MHM.
+嗯。
+
+2023/10/23 08:52:45
+Okay, sorry, but my chat is not active.
+好的，对不起，但我的聊天不活跃。
+
+2023/10/23 08:52:57
+Thank you.
+谢谢。
+
+2023/10/23 08:53:08
+Same me I suppose so. I just sent something in the meeting chat right now. I don't know can someone seemed yeah I can see. Can you see this i~e~ is okay but I don't see the document but yeah, I don't know. I I think the reason can be if you may behave from.
+我想我也是这样。我现在刚刚在会议聊天中发送了一些东西。我不知道有人能看得出来。你能看到这个吗 i~e~ 没关系，但我没有看到文档，但是是的，我不知道。我认为原因可能是如果你可以表现。
+
+2023/10/23 08:53:13
+If you are using browser only, maybe then you cannot see the chat.
+如果您仅使用浏览器，则可能无法看到聊天。
+
+2023/10/23 08:53:17
+Is it so? Maybe.
+是这样吗？或。
+
+2023/10/23 08:53:20
+But I'm from the application.
+但我来自应用程序。
+
+2023/10/23 08:53:23
+Okay, so unable to see the chat.
+好的，所以看不到聊天。
+
+2023/10/23 08:53:35
+Aha, thank you. Okay? In any case, just follow. We have this file. Could have this file share wizard if standard file.
+啊哈，谢谢。好？无论如何，只要跟随。我们有这个文件。如果标准文件，可以有此文件共享向导。
+
+2023/10/23 08:53:40
+HMMM.
+嗯。
+
+2023/10/23 08:53:52
+So I will demonstrate the task and a and explain how you're getting the information further. We are going to upload it in our Chinese environment. And further we are going to create a map and share it as a web application, so.
+因此，我将演示任务和a，并解释您如何进一步获取信息。我们将把它上传到我们的中国环境中。此外，我们将创建一个地图并将其共享为 Web 应用程序，因此。
+
+2023/10/23 08:53:59
+Um, if you can see this, a csv file is composed of a seven a.
+嗯，如果你能看到这个，一个csv文件由一个七a组成。
+
+2023/10/23 08:54:11
+Columns a fourteen rows um, the first is latitude, longitude of the point. The point are the mountains.
+列一十四行嗯，第一列是纬度，经度的点。重点是山脉。
+
+2023/10/23 08:54:29
+Um, we are collecting the name of the mountains, the range where the standing, the elevation in meters um also we are uploading here, file taking from Wikipedia and also we adding here a the link.
+嗯，我们正在收集山脉的名称，站立的范围，以米为单位的海拔高度，我们也在这里上传，文件取自维基百科，我们还在此处添加链接。
+
+2023/10/23 08:54:42
+A as a photo credit from where we take this photo, and with all this data we are going to put a in august environment in our web.
+A 作为我们拍摄这张照片的照片来源，以及所有这些数据，我们将在我们的网络中放置一个 8 月的环境。
+
+2023/10/23 08:54:50
+I will go to my web browser. I will share my web browser.
+我将转到我的网络浏览器。我将分享我的网络浏览器。
+
+2023/10/23 08:55:04
+So first, what we are going to do it.
+所以首先，我们要做什么。
+
+2023/10/23 08:55:08
+Sign in to or address online account.
+登录或解决在线帐户。
+
+2023/10/23 08:55:12
+After signing in.
+登录后。
+
+2023/10/23 08:55:24
+Um, we need to, um, prepare the place or appropriate folder where we are going to get to all those information.
+嗯，我们需要，嗯，准备我们要获取所有这些信息的地方或适当的文件夹。
+
+2023/10/23 08:55:27
+Um, we are going to content.
+嗯，我们要内容了。
+
+2023/10/23 08:55:37
+Um, and creating some environment.
+嗯，并创造一些环境。
+
+2023/10/23 08:55:38
+Folder.
+文件夹。
+
+2023/10/23 08:55:43
+Naming it.
+命名它。
+
+2023/10/23 08:55:53
+Thank you.
+谢谢。
+
+2023/10/23 08:55:55
+Cooking. Okay, further all information we are going to create. Well, um, we will assign both here, safe here.
+烹饪。好的，进一步我们将要创建的所有信息。好吧，嗯，我们将在这里分配两者，在这里安全。
+
+2023/10/23 08:55:59
+A further we need to go to the map.
+进一步，我们需要去地图。
+
+2023/10/23 08:56:09
+And?
+和？
+
+2023/10/23 08:56:13
+Select appropriate base map for us.
+为我们选择合适的底图。
+
+2023/10/23 08:56:15
+For this task.
+对于此任务。
+
+2023/10/23 08:56:20
+Um, the fault we have topological, um.
+嗯，我们有拓扑的错，嗯。
+
+2023/10/23 08:56:26
+Information here we have topographic web map.
+这里的信息我们有地形网络地图。
+
+2023/10/23 08:56:45
+WHY?
+为什么？
+
+2023/10/23 08:56:52
+And when we're scrolling down from the left side of a window, we can see the options for the baseball. But what a if we don't a find appropriate one here and we are going to um, find it. Um, for instance, we are going to find and use here charted territory map which are in estuary environment. Um, we can um.
+当我们从窗口左侧向下滚动时，我们可以看到棒球的选项。但是，如果我们在这里找不到合适的，我们将要嗯，找到它，那该怎么办。嗯，例如，我们将在这里找到并使用在河口环境中绘制的领土地图。嗯，我们可以嗯。
+
+2023/10/23 08:56:54
+Want to sign map?
+想要在地图上签名？
+
+2023/10/23 08:57:01
+Bye.
+再见。
+
+2023/10/23 08:57:01
+A layer in living at was and, um, use it as a base map.
+生活在 is 中的图层是，嗯，将其用作底图。
+
+2023/10/23 08:57:04
+We are going to type here.
+我们将在这里输入。
+
+2023/10/23 08:57:09
+Chart territory map.
+图表区域地图。
+
+2023/10/23 08:57:13
+And with the first option, we can see.
+对于第一个选项，我们可以看到。
+
+2023/10/23 08:57:15
+Thanks.
+谢谢。
+
+2023/10/23 08:57:16
+This map.
+这张地图。
+
+2023/10/23 08:57:20
+And clicking us base map.
+然后点击我们的底图。
+
+2023/10/23 08:57:21
+MHM.
+嗯。
+
+2023/10/23 08:57:33
+We'll see. Oma pure baseball piece change was changed and we can see the church territory.
+我们拭目以待。Oma纯棒球件的变化被改变了，我们可以看到教会的领土。
+
+2023/10/23 08:57:41
+We need to save our map first.
+我们需要先保存我们的地图。
+
+2023/10/23 08:57:47
+We'll give a this map name.
+我们将给出此地图名称。
+
+2023/10/23 08:57:54
+HM, HM.
+嗯，嗯。
+
+2023/10/23 08:57:58
+MO.
+莫。
+
+2023/10/23 08:58:05
+Thanks.
+谢谢。
+
+2023/10/23 08:58:07
+We will select the appropriate folder which which we previously created. It will be mountain super media also can add takes here for.
+我们将选择之前创建的相应文件夹。它将是山超级媒体也可以在这里添加镜头。
+
+2023/10/23 08:58:10
+MHM.
+嗯。
+
+2023/10/23 08:58:13
+Easy finding for others will be sharing for defining this layer.
+其他人可以轻松找到以共享以定义此层。
+
+2023/10/23 08:58:15
+It will be mountains.
+这将是山。
+
+2023/10/23 08:58:16
+HMMM.
+嗯。
+
+2023/10/23 08:58:21
+Thanks.
+谢谢。
+
+2023/10/23 08:58:25
+Armenia range.
+亚美尼亚范围。
+
+2023/10/23 08:58:30
+HMMM.
+嗯。
+
+2023/10/23 08:58:33
+And we could add a short or brief summer year.
+我们可以添加一个或短或短的夏季年。
+
+2023/10/23 08:58:35
+Here.
+这里。
+
+2023/10/23 08:58:38
+We can't find.
+我们找不到。
+
+2023/10/23 08:58:42
+The maps mountain, sorry.
+地图山，对不起。
+
+2023/10/23 08:58:44
+HMMM.
+嗯。
+
+2023/10/23 08:58:47
+Soft.
+软。
+
+2023/10/23 08:58:56
+And we clicking save.
+我们点击保存。
+
+2023/10/23 08:58:57
+MHM.
+嗯。
+
+2023/10/23 08:59:00
+HMMM.
+嗯。
+
+2023/10/23 08:59:02
+Perfect.
+完善。
+
+2023/10/23 08:59:15
+MHM.
+嗯。
+
+2023/10/23 08:59:17
+To add a or previously created information, which we are assembled from a Google map and.
+添加或以前创建的信息，这些信息是从谷歌地图组装而成的。
+
+2023/10/23 08:59:18
+Wikipedia.
+维基百科。
+
+2023/10/23 08:59:23
+Um, it it is layer. And we are going to the layer.
+嗯，它是层。我们要去层。
+
+2023/10/23 08:59:25
+Menu.
+菜单。
+
+2023/10/23 08:59:26
+Manual clicking to add.
+手动单击以添加。
+
+2023/10/23 08:59:27
+Okay.
+好。
+
+2023/10/23 08:59:30
+MO.
+莫。
+
+2023/10/23 08:59:42
+After we selected our device because we are going from directly take it from our computer.
+在我们选择了设备之后，因为我们直接从我们的计算机上获取它。
+
+2023/10/23 08:59:44
+Selecting a.
+选择 a。
+
+2023/10/23 08:59:51
+Appropriate for the we were recreating those file. In my case, it's already opened.
+适用于我们正在重新创建这些文件。就我而言，它已经打开了。
+
+2023/10/23 08:59:55
+And clicking to open it, there's two options.
+单击以打开它，有两个选项。
+
+2023/10/23 09:00:02
+We're selecting first create a host future layer and add it to the map, because we are going to interact and use it.
+我们选择首先创建一个主机未来图层并将其添加到地图中，因为我们将对其进行交互和使用它。
+
+2023/10/23 09:00:05
+Border.
+边境。
+
+2023/10/23 09:00:07
+Click connect.
+单击连接。
+
+2023/10/23 09:00:33
+Z range of.
+Z 范围。
+
+2023/10/23 09:00:35
+All information, all data up here. Um, we can see here a seven data types and um, we can read to make sure that it's correct. For all attributes, attribute names, the data types are corresponding or not. The latitude and longitude are numbers and they are double the name range or strings because they composed of.
+所有信息，所有数据都在这里。嗯，我们可以在这里看到七种数据类型，嗯，我们可以阅读以确保它是正确的。对于所有属性（属性名称），数据类型是否对应。纬度和经度是数字，它们是名称范围或字符串的两倍，因为它们组成。
+
+2023/10/23 09:00:39
+It will be in treasure.
+它将是宝藏。
+
+2023/10/23 09:00:48
+Um and, um, Tom, url and photo credit are also strange because they are composed from symbols, figures and letters.
+嗯，嗯，汤姆，网址和照片来源也很奇怪，因为它们是由符号、数字和字母组成的。
+
+2023/10/23 09:00:51
+By clicking next.
+通过单击下一步。
+
+2023/10/23 09:01:00
+We need to select in which we are going to a combine our csv file would.
+我们需要选择我们要在其中合并我们的csv文件。
+
+2023/10/23 09:01:11
+A connected VIA latitude and longitude. We have several options here.
+连接的 VIA 纬度和经度。我们这里有几种选择。
+
+2023/10/23 09:01:32
+Are we? Um, if you have data with the names are or street names, we can try to put it with the street names or addresses. But in in this particular task, we have only latitude and longitude and we can edit version.
+是吗？嗯，如果您有带有名称或街道名称的数据，我们可以尝试将其与街道名称或地址放在一起。但是在这个特定的任务中，我们只有纬度和经度，我们可以编辑版本。
+
+2023/10/23 09:01:40
+Um, also, um, here we are creating a csv file and.
+嗯，还有，嗯，这里我们正在创建一个 csv 文件和。
+
+2023/10/23 09:01:49
+Um, we need a to a take appropriate place for saving it. It all will be also in.
+嗯，我们需要一个适当的地方来保存它。这一切都会在。
+
+2023/10/23 09:01:54
+Thermal software media thanks would be this will be the same.
+热软件介质感谢这将是相同的。
+
+2023/10/23 09:02:06
+And the same or it will be here.
+同样，否则它将在这里。
+
+2023/10/23 09:02:11
+You can find.
+你可以找到。
+
+2023/10/23 09:02:16
+The information.
+信息。
+
+2023/10/23 09:02:38
+About our CSR about our mountains fire.
+关于我们的企业社会责任 关于我们的山火。
+
+2023/10/23 09:02:58
+After a feeling summery, we can.
+在感觉夏天之后，我们可以。
+
+2023/10/23 09:03:01
+Click create an attitude map.
+单击创建态度图。
+
+2023/10/23 09:03:22
+Here we can see the dote.
+在这里我们可以看到点。
+
+2023/10/23 09:03:31
+Which are our information from the file and when we interact with it, clicking on those dots.
+哪些是我们从文件中获取的信息，以及当我们与它交互时，单击这些点。
+
+2023/10/23 09:03:35
+We can see all the information here.
+我们可以在这里看到所有信息。
+
+2023/10/23 09:03:38
+From our data.
+根据我们的数据。
+
+2023/10/23 09:03:41
+Let's change the symbols.
+让我们更改符号。
+
+2023/10/23 09:03:46
+From the left side, we have styles.
+从左侧开始，我们有样式。
+
+2023/10/23 09:03:50
+And here we can select the appropriate one for.
+在这里我们可以选择合适的。
+
+2023/10/23 09:03:55
+Changing representing the mountains.
+变化代表山脉。
+
+2023/10/23 09:04:00
+Um, let's go to the style options.
+嗯，让我们转到样式选项。
+
+2023/10/23 09:04:03
+And select.
+并选择。
+
+2023/10/23 09:04:07
+Then on a simple style.
+然后在一个简单的风格上。
+
+2023/10/23 09:04:14
+From here we can select appropriate symbol. The basic point was that and we can select um.
+从这里我们可以选择合适的交易品种。基本点是这样，我们可以选择 um。
+
+2023/10/23 09:04:19
+Geometrical figure triangle, for instance.
+例如，几何图形三角形。
+
+2023/10/23 09:04:23
+Um, adjust the size.
+嗯，调整大小。
+
+2023/10/23 09:04:28
+Select the fuel color.
+选择燃料颜色。
+
+2023/10/23 09:04:31
+With appropriate one.
+用适当的一个。
+
+2023/10/23 09:04:35
+In our taste.
+在我们的口味中。
+
+2023/10/23 09:04:39
+And select our plain color.
+并选择我们的纯色。
+
+2023/10/23 09:04:41
+Click down.
+向下单击。
+
+2023/10/23 09:04:48
+But what if we don't need this a geometrical?
+但是，如果我们不需要这个几何形状呢？
+
+2023/10/23 09:04:52
+Figures and we are going to select.
+数字，我们将选择。
+
+2023/10/23 09:04:55
+Another was a.
+另一个是。
+
+2023/10/23 09:05:03
+Type which could be much more represented as a mountain. For instance, this, um, this symbol.
+类型可以更多地表现为一座山。例如，这个，嗯，这个符号。
+
+2023/10/23 09:05:09
+And also we can select the size.
+我们也可以选择尺寸。
+
+2023/10/23 09:05:14
+And, um, another option for filling color and outline color are disabled on this option.
+而且，嗯，此选项禁用了另一个用于填充颜色和轮廓颜色的选项。
+
+2023/10/23 09:05:17
+We also can select.
+我们也可以选择。
+
+2023/10/23 09:05:20
+UM.
+一。
+
+2023/10/23 09:05:37
+From there, our own creative symbols when we are when we can create or uphold some png Japan g files, and upload here and use it as a symbols.
+从那里，当我们可以创建或维护一些 png 日本 g 文件时，我们自己的创意符号，并上传到这里并将其用作符号。
+
+2023/10/23 09:05:41
+We go to leave it like this.
+我们就这样离开了。
+
+2023/10/23 09:05:46
+And by clicking down into a big.
+并通过点击进入一个大。
+
+2023/10/23 09:05:49
+Double click down, it will be saved.
+双击向下，它将被保存。
+
+2023/10/23 09:05:52
+Further, we need to.
+此外，我们需要这样做。
+
+2023/10/23 09:06:09
+Are configured all a popup window because a here's default representation type, and we're not going to put here all the information. We are going to a make it in different, different ways.
+全部配置为弹出窗口，因为这是默认表示类型，我们不会将所有信息放在这里。我们将以不同的方式制作它。
+
+2023/10/23 09:06:11
+So, going to the.
+所以，去。
+
+2023/10/23 09:06:13
+Open a window.
+打开一个窗口。
+
+2023/10/23 09:06:16
+We could.
+我们可以。
+
+2023/10/23 09:06:28
+Delete all these fields and configure the mountains of our mere title, so we are going to delay the title.
+删除所有这些字段并配置我们仅标题的山脉，因此我们将延迟标题。
+
+2023/10/23 09:06:36
+And believe only the name of particular mountain and we are going to a delayed.
+并且只相信特定山的名字，我们将要推迟。
+
+2023/10/23 09:06:39
+All those information?
+所有这些信息？
+
+2023/10/23 09:06:50
+From the pop up window, you can add a text added content by clicking get the content we need to add a text.
+在弹出窗口中，您可以通过单击获取添加文本所需的内容来添加文本添加内容。
+
+2023/10/23 09:06:56
+And type the following information the.
+并键入以下信息。
+
+2023/10/23 09:07:02
+Open the bracket and select the name attribute.
+打开括号并选择名称属性。
+
+2023/10/23 09:07:14
+From the manual it will represent the name of the mountain and in any place where clicking I'll short, um, after when I finish is a.
+从手册中，它将代表山的名称，并且在任何地方单击我会缩短，嗯，当我完成之后是a。
+
+2023/10/23 09:07:23
+This part of of the task, a mountain name a, is located.
+任务的这一部分，一个山名a，位于。
+
+2023/10/23 09:07:26
+In the.
+在。
+
+2023/10/23 09:07:35
+Range oh, and I'm going to find the range name from attribute table.
+范围哦，我将从属性表中找到范围名称。
+
+2023/10/23 09:07:38
+And?
+和？
+
+2023/10/23 09:07:41
+His elevation.
+他的提升。
+
+2023/10/23 09:07:44
+OH.
+哦。
+
+2023/10/23 09:07:51
+Approximately, and I'm going to find.
+大约，我会找到的。
+
+2023/10/23 09:07:53
+The information about elevation, yeah.
+有关海拔的信息，是的。
+
+2023/10/23 09:07:56
+Meters.
+米。
+
+2023/10/23 09:07:59
+And clicking OK.
+然后单击确定。
+
+2023/10/23 09:08:03
+So we can see the name.
+所以我们可以看到这个名字。
+
+2023/10/23 09:08:08
+Is located in the range of.
+位于的范围内。
+
+2023/10/23 09:08:23
+The range what I typed in the break its intense elevation of approximately 2555 meters. Let's make it bold.
+我输入的范围打破了大约2555米的强烈海拔。让我们让它变得大胆。
+
+2023/10/23 09:08:26
+Little league name.
+小联盟名称。
+
+2023/10/23 09:08:35
+Range.
+范围。
+
+2023/10/23 09:08:38
+Innovation.
+创新。
+
+2023/10/23 09:08:47
+And we can see the changes and each time when I'm clicking on a different object.
+我们可以看到变化，每次我点击不同的对象时。
+
+2023/10/23 09:08:49
+It will represent.
+它将代表。
+
+2023/10/23 09:08:56
+On the name place on the range, place and elevation place its own attribute names.
+在名称上放置范围上的位置，位置和高程放置其自己的属性名称。
+
+2023/10/23 09:09:04
+Um, so, um, we need to add here also a picture because we have sampled.
+嗯，所以，嗯，我们还需要在这里添加一张图片，因为我们已经采样了。
+
+2023/10/23 09:09:09
+Picture for this.
+图片为这个。
+
+2023/10/23 09:09:16
+We need to click add content and find an image.
+我们需要单击添加内容并找到图像。
+
+2023/10/23 09:09:21
+Will you are our place. We need to select.
+你会是我们的地方吗？我们需要选择。
+
+2023/10/23 09:09:29
+A Tom url, which means it will be our portal and you.
+汤姆网址，这意味着它将是我们的门户和您。
+
+2023/10/23 09:09:38
+When I'm over in the mouse here, you can see only the mouse, but I want to also put it.
+当我在这里用鼠标时，你只能看到鼠标，但我也想把它放进去。
+
+2023/10/23 09:09:46
+Also the lead, because I assembled a link for this picture and I will add also the league part here.
+也是铅，因为我为这张照片组装了一个链接，我还将在此处添加联赛部分。
+
+2023/10/23 09:09:53
+You can see now I have.
+你现在可以看到我有。
+
+2023/10/23 09:09:55
+Another.
+另一个。
+
+2023/10/23 09:09:59
+A point.
+一点。
+
+2023/10/23 09:10:10
+The hand and when I click it, it's directly going to the link which I assembled for my mountain, so.
+当我点击它时，它直接进入我为我的山组装的链接，所以。
+
+2023/10/23 09:10:13
+After two clicking dub.
+点击两次后配音。
+
+2023/10/23 09:10:13
+After clicking down.
+点击下来后。
+
+2023/10/23 09:10:25
+Oh, if you don't forget, we have also a photo credit here. Let's see as lets a create it as a link. So we need to edit a text here.
+哦，如果你没有忘记，我们这里还有一个照片来源。让我们看看让我们将其创建为链接。因此，我们需要在此处编辑文本。
+
+2023/10/23 09:10:30
+Below, we need to add a photo.
+下面，我们需要添加一张照片。
+
+2023/10/23 09:10:32
+Credit.
+信用。
+
+2023/10/23 09:10:41
+Further, we need to find this link. We will open the bracket and find.
+此外，我们需要找到此链接。我们将打开括号并找到。
+
+2023/10/23 09:10:43
+Photo credit.
+图片来源。
+
+2023/10/23 09:10:46
+Quick to cut it.
+快速切割它。
+
+2023/10/23 09:10:57
+And create photo credit as a link pointing to the league option and pass it here.
+并创建照片信用作为指向联赛选项的链接并将其传递到此处。
+
+2023/10/23 09:11:02
+It will be the active link by clicking OK.
+通过单击“确定”，它将是活动链接。
+
+2023/10/23 09:11:07
+We can see it's changed in our.
+我们可以看到它在我们的身上发生了变化。
+
+2023/10/23 09:11:13
+Popup window and by clicking in on it, who can see directly.
+弹出窗口，然后单击它，谁可以直接看到。
+
+2023/10/23 09:11:18
+Base from where this photography we take.
+我们拍摄这张照片的基地。
+
+2023/10/23 09:11:25
+Also will bring us detail when you take it from home. Who is the author of this picture?
+当您从家里拿走它时，也会给我们带来详细信息。这张照片的作者是谁？
+
+2023/10/23 09:11:28
+SO.
+所以。
+
+2023/10/23 09:11:33
+Martyr.
+烈士。
+
+2023/10/23 09:11:35
+We need to.
+我们需要这样做。
+
+2023/10/23 09:11:38
+Select the option.
+选择该选项。
+
+2023/10/23 09:11:40
+For sharing this.
+为了分享这个。
+
+2023/10/23 09:11:43
+A web.
+一张网。
+
+2023/10/23 09:11:47
+Um, I'll click to save it.
+嗯，我会点击保存它。
+
+2023/10/23 09:11:53
+To make sure I've saved my changes here.
+为了确保我已在此处保存更改。
+
+2023/10/23 09:11:58
+And I will select the sharing option.
+我将选择共享选项。
+
+2023/10/23 09:12:05
+Twill be everyone.
+这将是每个人。
+
+2023/10/23 09:12:07
+Now said.
+现在说。
+
+2023/10/23 09:12:19
+Was updated here.
+已在此处更新。
+
+2023/10/23 09:12:34
+And, um, what if I don't want to share it as a web, a map? I would like to share it as a web application, and have a others to interact as an application a instead of a web layer here.
+而且，嗯，如果我不想将其共享为网络，地图怎么办？我想将其共享为 Web 应用程序，并在此处将其他人作为应用程序而不是 Web 层进行交互。
+
+2023/10/23 09:12:35
+I will.
+我会的。
+
+2023/10/23 09:12:45
+From the left side, I will go to on the three dots and select more, and here I have an option to create application.
+从左侧，我将转到三个点并选择更多，在这里我可以选择创建应用程序。
+
+2023/10/23 09:12:48
+Will be instant apps.
+将是即时应用程序。
+
+2023/10/23 09:13:01
+And from here, there are a lot of options. I will select the basic one.
+从这里开始，有很多选择。我将选择基本的。
+
+2023/10/23 09:13:13
+We're going with the basic one, it will create application a, it will be a multi super media, let's eat here APP.
+我们用的是基本的，它会创建一个应用程序，它将是一个多超级媒体，让我们在这里吃APP。
+
+2023/10/23 09:13:22
+Two other application and the folder adding texts are also presented here.
+此处还介绍了另外两个应用程序和添加文本的文件夹。
+
+2023/10/23 09:13:24
+We will create APP.
+我们将创建应用程序。
+
+2023/10/23 09:13:39
+Just a few seconds.
+短短几秒钟。
+
+2023/10/23 09:13:46
+There's a guide for helping us.
+有一个帮助我们的指南。
+
+2023/10/23 09:13:51
+We need to do, but, um, in this case there are four or five.
+我们需要做，但是，嗯，在这种情况下有四五个。
+
+2023/10/23 09:13:55
+MHM.
+嗯。
+
+2023/10/23 09:14:00
+MHM.
+嗯。
+
+2023/10/23 09:14:05
+MHM.
+嗯。
+
+2023/10/23 09:14:07
+I will cover it quickly. First is a map. We need to select a its default thi or proves to create one if you need to change it.
+我会很快介绍它。首先是地图。如果您需要更改它，我们需要选择一个其默认值或证明创建一个。
+
+2023/10/23 09:14:08
+MHM.
+嗯。
+
+2023/10/23 09:14:13
+You can select multiple source from here, a big.
+您可以从这里选择多个来源，一个大。
+
+2023/10/23 09:14:14
+MHM.
+嗯。
+
+2023/10/23 09:14:19
+Further, we clicking next and I'm adjusting our, um, interface.
+此外，我们单击下一步，我正在调整我们的界面。
+
+2023/10/23 09:14:34
+Thank you.
+谢谢。
+
+2023/10/23 09:14:35
+Well, in our application we will enable the hinder the legend, and we don't need to fix prop up location so it depends on the taste. I don't, um, enabling this option going to next.
+好吧，在我们的应用程序中，我们将启用阻碍图例，并且我们不需要固定支撑位置，因此这取决于口味。我不，嗯，启用此选项到下一个。
+
+2023/10/23 09:14:37
+Here.
+这里。
+
+2023/10/23 09:14:39
+MHM.
+嗯。
+
+2023/10/23 09:14:48
+Thank, thank, thank you.
+谢谢，谢谢，谢谢。
+
+2023/10/23 09:15:01
+Scripture options and also we can enable a certain openness start.
+圣经选项，我们也可以实现一定的开放性开始。
+
+2023/10/23 09:15:04
+ZA.
+后。
+
+2023/10/23 09:15:09
+It will be on the right place. Find others replace or we can disable this option. It will be on loop.
+它将在正确的地方。查找其他替换，或者我们可以禁用此选项。它将循环播放。
+
+2023/10/23 09:15:15
+A further. We'll click next.
+更进一步。我们将单击下一步。
+
+2023/10/23 09:15:31
+Um, we can also just the application interface on like light mode or dark mode and see the configuration of our.
+嗯，我们也可以只打开应用程序界面，如浅模式或暗模式，看看我们的配置。
+
+2023/10/23 09:15:47
+Thus, a Georgian button will be on our top right side layer. List would be on our bottom right side and from the top left side, we will see the screenshot buttons and controls. If we need to adjust it we can, um.
+因此，格鲁吉亚按钮将位于我们的右上角。列表将位于我们的右下角，从左上角，我们将看到屏幕截图按钮和控件。如果我们需要调整它，我们可以，嗯。
+
+2023/10/23 09:15:50
+Adjusted manually from here.
+从这里手动调整。
+
+2023/10/23 09:15:59
+So it's our last step, and when we're going to click publish.
+所以这是我们的最后一步，也是我们要点击发布的时候。
+
+2023/10/23 09:16:00
+HMMM.
+嗯。
+
+2023/10/23 09:16:03
+Are we considering?
+我们在考虑吗？
+
+2023/10/23 09:16:05
+Publication.
+出版。
+
+2023/10/23 09:16:14
+And we'll see that our changes published and.
+我们将看到我们的更改已发布。
+
+2023/10/23 09:16:24
+Here we need to decide how we are going to share our application. So the default is the sharing level is owner and we are going to change.
+在这里，我们需要决定如何共享我们的应用程序。因此，默认是共享级别是所有者，我们将进行更改。
+
+2023/10/23 09:16:26
+Sure settings.
+确定设置。
+
+2023/10/23 09:16:32
+And clicking to everyone c.
+并点击到每个人c。
+
+2023/10/23 09:16:38
+So it's updated.
+所以它更新了。
+
+2023/10/23 09:16:48
+I.
+我。
+
+2023/10/23 09:16:53
+And from this, a part when we are repeating this procedure.
+由此，我们重复此过程的一部分。
+
+2023/10/23 09:17:02
+We can easily copy the link or?
+我们可以轻松复制链接或？
+
+2023/10/23 09:17:07
+From science here, from here.
+从科学这里，从这里。
+
+2023/10/23 09:17:19
+And test it and share it with other people and just make to launch what we are going to see. I'm coping this.
+并测试它并与其他人分享，然后启动我们将要看到的内容。我正在应付这个。
+
+2023/10/23 09:17:26
+A link to a sending to others, we will see such kind of application.
+发送到其他人的链接，我们将看到这种应用程序。
+
+2023/10/23 09:17:33
+A from where all information which we previously created presenting.
+A 从我们之前创建的所有信息呈现的地方。
+
+2023/10/23 09:17:36
+Information about the mountains.
+有关山脉的信息。
+
+2023/10/23 09:17:55
+The art is located in the range of army in highland, has elevation of our approximately five hundred one hundred thirty seven meters.
+该艺术位于高地的军队范围内，海拔约五百一百三十七米。
+
+2023/10/23 09:18:00
+Is the picture from your bedside mountain forward?
+你床边山上的照片是向前的吗？
+
+2023/10/23 09:18:09
+And we can interact with the manual, for instance, find others replace the type r and.
+我们可以与手册进行交互，例如，找到其他人替换r型和。
+
+2023/10/23 09:18:13
+Winding it.
+缠绕它。
+
+2023/10/23 09:18:16
+Here.
+这里。
+
+2023/10/23 09:18:22
+It's working well.
+它运作良好。
+
+2023/10/23 09:18:30
+It's a legend. It's about one point monitoring or mountains or media with.
+这是一个传奇。这是关于一个点监控或山脉或媒体。
+
+2023/10/23 09:18:37
+Go one urgent information and we can also, um.
+去一个紧急信息，我们也可以，嗯。
+
+2023/10/23 09:18:40
+Have a screenshot here.
+在这里截图。
+
+2023/10/23 09:18:46
+With the different objects a, we can add a legend here.
+对于不同的对象a，我们可以在此处添加一个图例。
+
+2023/10/23 09:18:51
+Set them up or area and dragged.
+设置它们或区域并拖动。
+
+2023/10/23 09:18:55
+After we can see our created.
+在我们可以看到我们创建的之后。
+
+2023/10/23 09:18:59
+A screenshot ING. We can download it.
+截图。我们可以下载它。
+
+2023/10/23 09:19:03
+And use it further.
+并进一步使用它。
+
+2023/10/23 09:19:13
+So this match for creating and sharing a web map and sharing as a web application, thank you for your kind attention.
+因此，此匹配用于创建和共享 web 地图以及共享为 web 应用程序，感谢您的关注。
+
+2023/10/23 09:19:34
+Okay, thank you very much for. I think it was very clear for all and thanks a lot, actually for the good and careful explanation of I'm adding csv file, into the map and also setting up popup for the map.
+好的，非常感谢。我认为所有人都很清楚，非常感谢，实际上，我正在将csv文件添加到地图中并为地图设置弹出窗口的良好而仔细的解释。
+
+2023/10/23 09:19:40
+And, um, actually it was very important, I think, that you were putting photo credit there, which is um.
+而且，嗯，实际上非常重要，我认为，你把照片信用放在那里，嗯。
+
+2023/10/23 09:19:50
+We sometimes forget, and I also wanted to mention that, um, it's really good rabbit to describe layer and giving text the.
+我们有时会忘记，我还想提一下，嗯，描述层和给文字真的很好兔子。
+
+2023/10/23 09:20:08
+While you are creating them and this also your short very well. And I think it's always the postponed tend to make it okay, we can do later, but this time I think you already giving very good example how it should be done, thanks a lot and um, if um.
+当你创建它们时，这也是你的短片很好。而且我认为总是推迟的倾向于让它好起来，我们可以稍后再做，但这次我认为你已经给出了很好的例子应该怎么做，非常感谢，嗯，如果嗯的话。
+
+2023/10/23 09:20:12
+I think now I can stop the recording.
+我想现在我可以停止录制了。
+
+2023/10/23 09:20:19
+And, um, I think everyone can ask questions if you want to and if you have any.
+而且，嗯，我认为每个人都可以提出问题，如果你愿意，如果你有的话。
+
+2023/10/23 09:20:28
+So you can just, um, I think open up your microphone and ask questions. Alright, in.
+所以你可以，嗯，我想打开你的麦克风问问题。好吧，在。
+
+2023/10/23 09:20:30
+Chat or the q and a.
+聊天或问答。
+
+2023/10/23 09:20:32
+But.
+但。
+
+2023/10/23 09:20:32
+HMM.
+嗯。
+
+2023/10/23 09:20:34
+SO.
+所以。
+
+2023/10/23 09:20:49
+I have stopped recording. I think you can all see this and okay, um, just a moment. I think someone already has a question.
+我已停止录制。我想你们都可以看到这一点，好吧，嗯，只是一会儿。我想有人已经有一个问题了。
+
+2023/10/23 09:20:54
+Okay, um, can you open your microphone or should I do it?
+好吧，嗯，你能打开麦克风还是我应该这样做？
+
+2023/10/23 09:20:56
+Nah.
+近。
+
+2023/10/23 09:21:00
+Okay, I think you can.
+好的，我想你可以。
+
+2023/10/23 09:21:02
+To speak out, yeah.
+说出来，是的。
+
+2023/10/23 09:21:07
+Yeah, um, sank Yu. Thank you.
+是的，嗯，沉没了余。谢谢。
+
+2023/10/23 09:21:18
+I have a question related to the text. When you enter into the pop UPS a text, how many symbols is possible to add?
+我有一个与文本有关的问题。当您在弹出式UPS中输入文本时，可以添加多少个符号？
+
+2023/10/23 09:21:23
+On the text? Um, yeah.
+在文本上？嗯，是的。
+

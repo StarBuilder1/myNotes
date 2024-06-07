@@ -1,0 +1,632 @@
+2023/10/16 09:01:31
+And this is, by the way, the.
+顺便说一下，这是。
+
+2023/10/16 09:01:53
+The worst case resolution, the lowest spatial resolution, um, is a common denominator across the world. In other words, it's the best possible global dataset you can have. So anywhere in the world you always will have this, um, a bus will be available, um.
+最坏情况的分辨率，最低的空间分辨率，嗯，是全世界的一个共同点。换句话说，它是您可以拥有的最佳全局数据集。所以在世界任何地方，你总是会有这个，嗯，会有公共汽车，嗯。
+
+2023/10/16 09:02:04
+And you have it available for free anywhere in the world. You don't have to go to the other side or maybe look for files to download.
+您可以在世界任何地方免费获得它。您不必去另一边或寻找要下载的文件。
+
+2023/10/16 09:02:48
+Check that your reference mosaic tiles and then start doing a slope map or whatever you would maybe need. But you can work wide away here and then it keeps again going um, with my pointer to the right. There's the traditional as a team dataset which is familiar to quite a few of you, because for many years this was the best possible global common denominator. A S A team for shuttle with the topography mission. Now it's been supplanted with the higher quality, not so much because of the twenty-five verses centimeters, um, but it um doesn't have those gaps inside.
+检查您的参考马赛克瓷砖，然后开始制作坡度图或任何您可能需要的内容。但是你可以在这里工作，然后它又继续前进，我的指针在右边。传统的团队数据集对你们中的很多人来说都很熟悉，因为多年来这是最好的全球公分母。一个S团队，负责地形任务的穿梭。现在它已经被更高的质量所取代，不是因为二十五节厘米，嗯，但它内部没有那些缝隙。
+
+2023/10/16 09:03:17
+And then we have slower resolution. Let's go to second with ninety meters and a at the end with some historic world team, right. So this is a multi resolution data set in terms of stacks of layers. You have to follow resume in the better data we use in terms of better spatial resolution. Um, and it doesn't have to be the same everywhere. It can be one meter resolution in Austria.
+然后我们的分辨率较慢。让我们以九十米的成绩获得第二名，最后是一些历史悠久的世界队，对吧。因此，这是一个多分辨率数据集，就层堆栈而言。您必须遵循我们在更好的空间分辨率方面使用的更好数据的简历。嗯，它不必在任何地方都一样。在奥地利，它可以是一米的分辨率。
+
+2023/10/16 09:03:45
+It can be 24 metres of resolution, I'll say in the middle of Siberia, right? So that's a quite kind of smart type of um interface. So you see a quite easily get better way when I'm going into, to win data simply because for so many years it was very hard to come by for study, areas which are not wide in your backyard.
+它可以是24米的分辨率，我会说在西伯利亚中部，对吧？所以这是一种非常智能的UM接口。所以当我进入时，你会看到一个很容易获得更好的方法，赢得数据，因为这么多年很难来研究，在你的后院不宽的区域。
+
+2023/10/16 09:04:19
+Um, let me maybe pop into one or two more topics before we, um, say share more, more, lot of perspectives up there. Do you remember that was subscriber content? But so if you don't find Wayne, if you check it, whether you're locked in, you need to be locked in a, you can freely use it, you could publish it, you can create an APP which is for everyone, um, but you have to be locked in when you're also yeah.
+嗯，让我再谈一两个话题，然后再说分享更多、更多、很多观点。你还记得那是订阅者的内容吗？但是如果你没有找到韦恩，如果你检查它，无论你是否被锁定，你需要被锁定在一个，你可以自由使用它，你可以发布它，你可以创建一个适合所有人的应用程序，嗯，但你必须被锁定的时候你也是。
+
+2023/10/16 09:04:38
+Oh, good. Then, um, let me pop into environment because here is one of my other favorite, um, yeah, domains in terms of, and however much of that is global land cover.
+哦，好。然后，嗯，让我进入环境，因为这是我最喜欢的另一个，嗯，是的，就全球土地覆盖而言，域，无论其中大部分是全球土地覆盖。
+
+2023/10/16 09:04:49
+But for a change, I'm not going directly into any one of theses vignettes, but I would rather go to the apps.
+但是为了改变，我不会直接进入任何一个小插曲，但我宁愿去应用程序。
+
+2023/10/16 09:04:51
+Which are available.
+哪些是可用的。
+
+2023/10/16 09:05:07
+So I'm looking at the land cover dataset blind. You find cover depending on whatever we want to look for, but I'm not browsing it as a data set. And we all know when we talk about the data set, it's the access to the data through.
+所以我正在盲目地查看土地覆盖数据集。您可以根据我们想要查找的内容找到封面，但我不会将其作为数据集浏览。我们都知道，当我们谈论数据集时，它是通过对数据的访问。
+
+2023/10/16 09:05:13
+And open service I've not talked about downloading.
+和开放服务我没有谈论下载。
+
+2023/10/16 09:05:15
+And downloading is possible.
+并且可以下载。
+
+2023/10/16 09:06:04
+Um, but it's not usually what I would piss you. That's kind of the mechanism of last resort download stuff. And they will briefly point out where and how to do that. But let me go to the apps bite you. Um, and there's a couple of highlighted apps. I've seen that before actually I don't know really what it is because your specific. Um, but we could for instance go to the um or asset explorer or the fentanyl a web server explorer. Okay? So what I'm doing here, obviously this APP can be a installed locally if you wanted to. So I was going directly.
+嗯，但这通常不是我会惹你生气的。这是一种最后手段下载东西的机制。他们将简要指出在哪里以及如何做到这一点。但是让我去应用程序咬你。嗯，有几个突出显示的应用程序。我以前见过，实际上我不知道它到底是什么，因为你具体。嗯，但是例如我们可以转到um或资产浏览器或芬太尼网络服务器资源管理器。好？所以我在这里做什么，显然这个APP可以本地安装，如果你愿意的话。所以我直接去了。
+
+2023/10/16 09:06:07
+From the living Atlas.
+来自活的阿特拉斯。
+
+2023/10/16 09:06:38
+To an APP which provides an access to a data service and cover service, but at the same time it provides richer functionality for visualization, for statistics, sometimes for further analysis as well. So this is the ten meter dataset and, um, just to kind of demonstrate that this is not just a.
+对于提供对数据服务和覆盖服务的访问的应用程序，但同时它为可视化、统计，有时也为进一步分析提供了更丰富的功能。所以这是十米的数据集，嗯，只是为了证明这不仅仅是一个。
+
+2023/10/16 09:06:43
+Um, not data, but we can go anywhere in the world.
+嗯，不是数据，但我们可以去世界任何地方。
+
+2023/10/16 09:06:52
+And that's actually the main point of the Atlas, um, it's thrives wherever possible to provide global data.
+这实际上是地图集的要点，嗯，它尽可能地提供全球数据。
+
+2023/10/16 09:07:23
+Of course, some other datasets, um, like the market research dataset we looked into before they might be national level. I don't know. There's a lot of work being done by UN and other international organizations for Africa. And so there might be some datasets which a particular to Africa. But by and large the living Atlas is always aiming at the wall to wall coverage. It's not a sampling of anything. You don't have to download a.
+当然，还有其他一些数据集，嗯，比如我们在国家层面之前研究的市场研究数据集。我不知道。联合国和其他国际组织正在为非洲做很多工作。因此，可能有一些数据集是非洲特有的。但总的来说，活的阿特拉斯总是瞄准墙到墙的覆盖。这不是任何东西的样本。您不必下载 a。
+
+2023/10/16 09:07:27
+Whatever you work with, what is available, it's there.
+无论您使用什么，什么可用，它都在那里。
+
+2023/10/16 09:07:40
+Okay, so here I look into sites, books, and we have a couple of paragraphs down here in one of the interesting observations, right? Yes, this is actually a time series dataset.
+好的，在这里我研究网站，书籍，我们这里有几段有趣的观察，对吧？是的，这实际上是一个时间序列数据集。
+
+2023/10/16 09:08:17
+So it's not only multi resolution like we had discussed it with Wayne, um, but we can step through and anime change and you will see a few pictures changing here and there, simply because um, the land cover change dynamics in this region, not that wild, not in particular, but not in that case. And of course we would have a discussion about the quality of these data sets as well. Um, and this is actually a fixed data set which is produced by.
+所以它不仅是多分辨率的，就像我们和韦恩讨论过的那样，嗯，但我们可以逐步改变动漫，你会看到一些图片在这里和那里发生变化，仅仅是因为嗯，这个地区的土地覆盖变化动态，不是那么狂野，不是特别，但不是在这种情况下。当然，我们也会讨论这些数据集的质量。嗯，这实际上是一个固定的数据集，由它产生。
+
+2023/10/16 09:08:25
+The, um, land observation people within copernicus out of sentinel data.
+哥白尼内部的陆地观测人员来自哨兵数据。
+
+2023/10/16 09:08:48
+There are a couple of other data sets were the land cover justification is done on the fly as well, like we had the deriving slope from elevation before, but the slope is not stored, um, the same. In some cases it's being done here, thanks. So let me stop this animation here.
+还有其他几个数据集，土地覆盖理由也是动态完成的，就像我们之前从高程得出坡度一样，但坡度没有存储，嗯，是一样的。在某些情况下，它正在这里完成，谢谢。所以让我在这里停止这个动画。
+
+2023/10/16 09:08:56
+Um, and yeah, zat let me go back and let me zoom in and.
+嗯，是的，zat 让我回去，让我放大和。
+
+2023/10/16 09:09:03
+Maybe while I'm panning, assuming, look at the bar chart at the bottom, right? Okay.
+也许当我平移时，假设，看看底部的条形图，对吧？好。
+
+2023/10/16 09:09:12
+So when I'm moving this over, it gives me the statistics for this particular screening step.
+因此，当我移动它时，它为我提供了这个特定筛选步骤的统计数据。
+
+2023/10/16 09:09:33
+Um, I could draw a polygon here as well, then it would give me that. So it's kind of life, at least statistical aggregation analysis in here, um, in this particular case focused on a this sentinel dataset.
+嗯，我也可以在这里画一个多边形，然后它会给我。所以这是一种生活，至少在这里进行统计聚合分析，嗯，在这个特殊情况下，专注于这个哨兵数据集。
+
+2023/10/16 09:09:40
+Um, maybe. Let me look at one other APP.
+嗯，也许吧。让我看看另一个应用程序。
+
+2023/10/16 09:09:45
+We still have some time to go explore a bit further.
+我们还有一些时间进一步探索。
+
+2023/10/16 09:09:54
+Um, and to stay within all our, let me go to one of my series favorite, um, apps white here, right?
+嗯，为了保持我们的所有，让我去我最喜欢的系列之一，嗯，这里的应用程序白色，对吧？
+
+2023/10/16 09:09:58
+Um, that's the sea Ice APP.
+A，那是海冰APP。
+
+2023/10/16 09:10:12
+Um, we can, of course. We talk about Polar regions. We can swap back and forth between Antarctica, um, and Arctic.
+嗯，我们当然可以。我们谈论极地地区。我们可以在南极洲、嗯和北极之间来回切换。
+
+2023/10/16 09:10:18
+So let's go for the, um, Arctic white. And again, that's.
+所以让我们去，嗯，北极白。再说一遍，就是这样。
+
+2023/10/16 09:10:26
+Um, as you see that, that's a life map. But, um, and, um, this again is a time series.
+嗯，正如你所看到的，这是一张生活地图。但是，嗯，嗯，这又是一个时间序列。
+
+2023/10/16 09:10:33
+And if you look at that chart here, he tells us this sea Ice.
+如果你看这张图表，他告诉我们这个海冰。
+
+2023/10/16 09:10:35
+In this particular year.
+在这一年。
+
+2023/10/16 09:10:44
+So I can display it by clicking on the bar chart. That was the extent this year. Let's look for one of the maximum years to fix that.
+所以我可以通过单击条形图来显示它。这就是今年的程度。让我们寻找解决此问题的最长年份之一。
+
+2023/10/16 09:11:28
+Um, was reaching the coast of Siberia as well as Canada, so the northeast as well as the north west passage? Um, we're a block out of the year then let's go for the minimum, um, which is well distinctly less, we could say why. And when I'm moving across here it's of course the yearly minimum and maximum. Yeah, that's the stock market. The maximum is the upper end of the less transparent colors down here. But in the lower part of the line graph we see the annual variation.
+嗯，到达西伯利亚海岸和加拿大，所以东北和西北航道？嗯，我们是一年中的一块，那么让我们去最低限度，嗯，这显然更少，我们可以说为什么。当我搬到这里时，它当然是每年的最小值和最大值。是的，这就是股市。最大值是这里不太透明的颜色的上限。但是在折线图的下半部分，我们看到了年度变化。
+
+2023/10/16 09:11:50
+Yeah, Howard. So the minimum typically is being reached in september and the maximum would be in the late winter, february, march. So that's just one APP providing a view of Atlas content. Thank you already can see, um, there's lots of these apps they provide, um.
+是的，霍华德。因此，最低值通常在 9 月达到，最大值将在冬末、2 月、3 月达到。所以这只是一个提供Atlas内容视图的应用程序。谢谢你已经可以看到，嗯，他们提供了很多这样的应用程序，嗯。
+
+2023/10/16 09:12:20
+Two answers to questions. Well, it's not only you have to download stuff and find the tool and then think up analysis process. You can, we should do all of that. Um, but very clearly, um, thess apps help with doing interpretation and access. And again, this helps me with getting back to the point that mentioned in the beginning, um, why is it called living Atlas?
+两个问题的答案。好吧，您不仅必须下载东西并找到工具，然后考虑分析过程。你可以，我们应该做所有这些。嗯，但很明显，嗯，这些应用程序有助于进行口译和访问。再一次，这有助于我回到开头提到的一点，嗯，为什么它被称为活的阿特拉斯？
+
+2023/10/16 09:12:46
+But, and the reasons for that are that, well, it's first of all not a book which is published in a particular year, and then maybe there might be a supplementary volume published with updates. Now, it can change all the time. Every day there's new content coming. For instance, I'm observing, as you had seen, the tone, the digital elevation modeling stuff.
+但是，这样做的原因是，嗯，它首先不是在特定年份出版的书，然后可能会有一本更新的补充卷。现在，它可以一直改变。每天都有新的内容出现。例如，正如你所看到的，我正在观察音调，数字高程建模的东西。
+
+2023/10/16 09:12:51
+Well, um, this is usually updated several times a week.
+嗯，嗯，这通常每周更新几次。
+
+2023/10/16 09:13:03
+So it's kind of a life, and we can see with this example as well, and I maybe want to take you to one another, a layer or APP.
+所以这是一种生活，我们也可以从这个例子中看到，我可能想带你们去找彼此，一层或APP。
+
+2023/10/16 09:13:07
+Um, let's see what's here.
+嗯，让我们看看这里有什么。
+
+2023/10/16 09:13:09
+I'm.
+我。
+
+2023/10/16 09:13:19
+I guess we should do away with massage keyboard because otherwise gets complicated. Um, we would have thermal hot spots.
+我想我们应该取消按摩键盘，否则会变得复杂。嗯，我们会有热热点。
+
+2023/10/16 09:13:28
+Pretty much life, yeah. Internal hot spots can be first fires, volcano activity or conflict, right?
+差不多是生活，是的。内部热点可能是第一次火灾，火山活动或冲突，对吧？
+
+2023/10/16 09:13:34
+Um, there's a live view on earthquakes.
+嗯，有一个关于地震的实时视图。
+
+2023/10/16 09:13:46
+And you already can see these views are based on life feeds, and my favorite one in this domain a is the one which provides access.
+你已经可以看到这些视图是基于生活提要的，在这个领域，我最喜欢的一个是提供访问权限的那个。
+
+2023/10/16 09:13:58
+Um, what are sections right? So pretty much, um, all the weather stations in the world, which a life connected to the Internet, which you can see.
+嗯，什么是部分正确？所以几乎，嗯，世界上所有的气象站，一个生命连接到互联网，你可以看到。
+
+2023/10/16 09:14:20
+It's not the same density everywhere in the world. Yeah, but anyway, let's check outside book airport. Um, and the reading is from eight fifty. So in a few minutes there should be a new one, so it's a little bit less than half an hour back today, um, and um, I.
+世界各地的密度都不一样。是的，但无论如何，让我们在预订机场外检查一下。嗯，读数是从八点五分开始的。所以几分钟后应该会有一个新的，所以今天不到半小时，嗯，嗯，我。
+
+2023/10/16 09:14:45
+Don't go into switching that over to celsius degree. So it's not a tall me 37 a but that's not out. It's Fahrenheit. Um, let's see how it, how is it doing in vanish? Today is a bit warmer. Yeah, it's warm, but a humidity and wind speed and all of that. So that's the other point. We call it living Atlas.
+不要把它切换到摄氏度。所以这不是一个高大的我 37 a，但那还没有出来。这是华氏度。嗯，让我们看看它是如何的，它在消失中表现如何？今天有点暖和。是的，它很温暖，但湿度和风速等等。所以这是另一点。我们称之为活的阿特拉斯。
+
+2023/10/16 09:15:10
+Um, because it's an interface to live feeds of data streams. It's supporting not only static data, it's not only about historic geography, what has bin, but it's also about a what is their white male. So that is a sort of my short.
+嗯，因为它是数据流实时馈送的接口。它不仅支持静态数据，不仅支持历史地理，什么有箱，而且还支持他们的白人男性。这就是我的短片。
+
+2023/10/16 09:15:24
+We can't. Why? Why do we call it living across its early portal, providing a lot of access pathways to an enormously which? A collection of um, yeah.
+我们不能。为什么？为什么我们称它生活在它的早期门户上，提供了许多通往巨大门户的途径？嗯，是的。
+
+2023/10/16 09:15:41
+Data and services. Now, you might have noticed that I have only looked at access online right now, so maybe for the moment, I pop over a two.
+数据和服务。现在，你可能已经注意到，我现在只看了在线访问，所以也许目前，我弹出了两个。
+
+2023/10/16 09:15:44
+OH.
+哦。
+
+2023/10/16 09:16:14
+Chess go all that works without re-sharing. I'm happy. Um but anyway this um underwear that the point. This is pretty small in here. So this is a asp oh I'm locked in with my usual single sign on credentials. So exactly same account like an um using um have been using in our chess online and yeah um.
+国际象棋无需重新分享即可完成所有工作。我很高兴。嗯，但无论如何这个嗯内衣那个重点。这在这里是很小的。所以这是一个asp，哦，我被我通常的单点登录凭据锁定了。所以与使用um的um完全相同的帐户一直在我们的在线国际象棋中使用，是的，嗯。
+
+2023/10/16 09:16:29
+I will read to you what I'm clicking on because the plant will be a bit small for you. So essentially I've opened a blank map that's a default. My part here, um, let's maybe go to some more familiar ground.
+我会读给你听我点击的内容，因为植物对你来说会有点小。所以基本上我打开了一个默认的空白地图。我在这里的部分，嗯，让我们去一些更熟悉的地方。
+
+2023/10/16 09:16:42
+Why do you want science book here? I could of course choose any any other base map if I decide to do so. Um, but I want to do right here is to add data.
+你为什么在这里想要科学书？如果我决定这样做，我当然可以选择任何其他底图。嗯，但我想在这里做的是添加数据。
+
+2023/10/16 09:16:46
+Right, and that's similar to the ad.
+对，这和广告很相似。
+
+2023/10/16 09:16:57
+View a workflow, um, so go to add data to a, add data to the map.
+查看工作流，嗯，所以去向a添加数据，将数据添加到地图。
+
+2023/10/16 09:17:01
+And here again.
+又来了。
+
+2023/10/16 09:17:06
+Scroll down and choose to add data from the living Atlas.
+向下滚动并选择从活的地图集添加数据。
+
+2023/10/16 09:17:26
+So it's a choice, like my local file set on my machine, my content on our key online by global organization content. And with that I go to the living Atlas and, um, let me look for slope living assets.
+所以这是一个选择，就像我的本地文件在我的机器上设置，我的内容在我们的密钥在线由全球组织内容。有了这个，我去活的阿特拉斯，嗯，让我寻找斜坡活资产。
+
+2023/10/16 09:17:40
+And I go for, in this case, not for the slope map we had seen before, but slope in decrease, maybe. Can we catch the bus at the same time? Let me bump up, right?
+在这种情况下，我选择的不是我们以前看到的坡度图，而是斜率降低，也许。我们可以同时赶公交车吗？让我撞上去吧？
+
+2023/10/16 09:17:50
+And then, since we already know that the solution is pretty good, aha, it asks me to sign in, that's interesting.
+然后，由于我们已经知道该解决方案非常好，啊哈，它要求我登录，这很有趣。
+
+2023/10/16 09:17:54
+Um, but anyway, this is my standard.
+嗯，但无论如何，这是我的标准。
+
+2023/10/16 09:17:58
+Updates online um.
+在线更新嗯。
+
+2023/10/16 09:18:00
+Potentials.
+电位。
+
+2023/10/16 09:18:05
+And hope.
+还有希望。
+
+2023/10/16 09:18:08
+Why? It doesn't know mine.
+为什么？它不知道我的。
+
+2023/10/16 09:18:21
+AI want to find in Mid play again? Um, that's no idea. Why was it right here?
+AI想在中途再次找到吗？嗯，那不知道。为什么会在这里？
+
+2023/10/16 09:18:24
+Bye.
+再见。
+
+2023/10/16 09:18:27
+Um, okay.
+嗯，好的。
+
+2023/10/16 09:18:31
+I was mixing up to accounts. Let me go back here.
+我混账了。让我回到这里。
+
+2023/10/16 09:18:37
+So here we go.
+所以我们开始了。
+
+2023/10/16 09:18:43
+Username and password coming pass and we shouldn't pick them up.
+用户名和密码即将通过，我们不应该拿起它们。
+
+2023/10/16 09:18:51
+Um, and while we're waiting for that, maybe it would be good. I should have done that before to sumin a bit further.
+嗯，在我们等待的时候，也许它会很好。我应该在之前这样做，以便进一步总结。
+
+2023/10/16 09:18:56
+And as you've seen, there's slope and slope in decrease.
+正如你所看到的，斜率和斜率在减少。
+
+2023/10/16 09:19:23
+So you might wonder, what's the difference between these two? Um, it goes back to the whole world. OK, let's go to some familiar ground of pyrenees would be less today. Let's go. Um, and if you have the left hand side, while this is loading, you look at the legend on top. There's the slope map and you have to take the slope map.
+所以你可能想知道，这两者之间有什么区别？嗯，它可以追溯到整个世界。好吧，让我们去一些熟悉的比利牛斯山脉今天会少一些。我们走吧。嗯，如果你有左手边，当它加载时，你看看上面的图例。有坡度图，你必须拿坡度图。
+
+2023/10/16 09:20:11
+Let's save you. It's classified. It's pre classified. Um, and this is like every other map it is to be viewed right. So if I A weed my slope, pixel, um it'll tell me it's so many degrees, 31 degrees in the mountains. Here a while, this has been derived from the um ninety and if we go in, then we should be able to get a match, a lifelike detail and get an identify weeding in kind of a higher resolution. But again it's a map and the map is for visual a communication when I switch off the map.
+让我们救救你。它是机密的。它是预先分类的。嗯，这就像其他所有地图一样，可以正确查看。所以如果我在斜坡上除草，像素，嗯，它会告诉我山上有这么多度，31度。在这里，这是从 um 90 衍生出来的，如果我们进去，那么我们应该能够得到一个匹配，一个栩栩如生的细节，并获得一种更高分辨率的识别除草。但同样，它是一张地图，当我关闭地图时，地图是为了视觉交流。
+
+2023/10/16 09:20:19
+I get my slope in decrease and I could use any kind of scale, a scale for that in the.
+我的斜率在减小，我可以使用任何类型的比例，一个比例。
+
+2023/10/16 09:20:44
+Okay, so I think it's good enough to have a gray scale, um, and again, I can get my value and slope in degrees and talented to degrade. So what's the difference? Essentially this log map is for visual communication. Now we need to stop APP and you want to show the slope if you want to do further calculation.
+好的，所以我认为有一个灰度就足够了，嗯，再说一次，我可以得到我的价值和学位斜率，天赋下降。那么有什么区别呢？本质上，此日志映射用于视觉交流。现在我们需要停止APP，如果你想做进一步的计算，你想显示斜率。
+
+2023/10/16 09:20:49
+So, for instance, you want to run a suitability model.
+因此，例如，您希望运行适宜性模型。
+
+2023/10/16 09:21:25
+And want to work with the decrease of the slope, then you have to go. Step one is a map, the other one is a dataset for further analysis. So when I do kind of multi criteria overlay and slope is one of my criteria, I would use slope in the waist. But anyway that was kind of an example of a how to work with. I'm living Atlas data, a white here and maybe don't go.
+并且想要降低斜率，那么你必须去。第一步是地图，另一步是用于进一步分析的数据集。因此，当我进行多标准叠加并且坡度是我的标准之一时，我会在腰部使用坡度。但无论如何，这是一个如何使用的例子。我生活在阿特拉斯数据中，这里是白色的，也许不会去。
+
+2023/10/16 09:22:25
+For any if you maybe want to create some attic maps a semantic maps for population distribution, election results, I'm average h and h cohorts you name it do not ever go for searching for data sets. Before um you have not explored whether you don't find it in the living Atlas right. So I just go for such a look for Glenn, which would be the general term for municipality and I would have to municipal boundaries for twenty, twenty one twenty two thirty three things like that happen to change a of course it won't be right here. So um we can zoom so through the particular dataset but by assuming a panic to the extent.
+对于任何可能想要创建一些阁楼地图，人口分布，选举结果的语义图，我是平均h和h队列，你的名字永远不会去搜索数据集。在嗯之前，你还没有探索过你是否在活的阿特拉斯中找不到它。所以我只是去找格伦，这将是自治市的总称，我将不得不市政边界二十，二十一二十二三十三这样的事情碰巧改变一个当然不会在这里。因此，我们可以放大特定数据集，但假设恐慌的程度。
+
+2023/10/16 09:22:38
+Somewhere here, but otherwise I guess I could find it this way too. So with command on, I have all the, um, municipalities in all of Germany.
+在这里的某个地方，但除此之外，我想我也可以通过这种方式找到它。因此，有了指挥权，我拥有整个德国的所有城市。
+
+2023/10/16 09:22:57
+And these political boundaries, not always on all levels, a would-be available pretty much anywhere in the world. And you already see, well, the battle isn't magic, but, um, there is no issues with projections.
+这些政治边界，并不总是在所有层面上，几乎在世界任何地方都可以使用。你已经看到，好吧，战斗不是魔法，但是，嗯，投影没有问题。
+
+2023/10/16 09:23:09
+I'm with a downloading and having to cheer code to transform a, because that's what the modern chess is simply doing on the fly.
+我正在下载，不得不欢呼代码来转换一个，因为这就是现代国际象棋在飞行中所做的。
+
+2023/10/16 09:23:21
+So, and we, we have some basic statistics and there's a municipality number, if I from maybe my um.
+所以，我们，我们有一些基本的统计数据，有一个市政当局的数字，如果我从我的嗯。
+
+2023/10/16 09:23:33
+District open data repository download the current data set. Then I will use the municipal identify a as a joint key.
+地区开放数据存储库下载当前数据集。然后，我将使用市政标识 a 作为联合键。
+
+2023/10/16 09:23:39
+Join it up with this one, and essentially, that's where we are.
+把它和这个结合起来，从本质上讲，这就是我们所处的位置。
+
+2023/10/16 09:24:06
+Yes, I'm, I'm now looking again at your chat or q and a, and before I finish off I would like to point to a, to a couple of resources where um, you would maybe able to to get a bit more support and orientation.
+是的，我，我现在正在再次查看您的聊天或问答，在我结束之前，我想指出一些资源，嗯，您可能会获得更多的支持和指导。
+
+2023/10/16 09:24:10
+The first one is right in front of your eyes.
+第一个就在你眼前。
+
+2023/10/16 09:24:55
+Um, I'm going to the main menu here like home browser apps and this block, right? So the block interview size essentially what's new sometimes it's a bit tips and tweaks. A goto the Lancet wayback engine by two maybe no the Internet wayback engine where you can go. Back a to historical content on the Internet. That would be the wayback engine using this um and lots of other stuff to block a to. Pop in there. Once in a while, um, that certainly would be a good idea. Then, um, I play.
+嗯，我要去这里的主菜单，比如家庭浏览器应用程序和这个块，对吧？因此，块面试大小本质上是新的，有时它是一些提示和调整。一个转到柳叶刀的回传引擎由两个可能没有互联网回转引擎，你可以去。回到互联网上的历史内容。这将是使用这个um和许多其他东西来阻止to的wayback引擎。进去。偶尔，嗯，这当然是个好主意。然后，嗯，我玩。
+
+2023/10/16 09:24:58
+Two.
+二。
+
+2023/10/16 09:25:03
+Okay, copy it a bit more than.
+好吧，复制它多一点。
+
+2023/10/16 09:25:15
+Oh, I wanted to form the tax, so should work right now. Um, this is my main recommendation for an.
+哦，我想形成税收，所以现在应该工作。嗯，这是我对安的主要建议。
+
+2023/10/16 09:25:25
+A living up sorry living asphalt as we academy costs. Again, this is freely available, you just need to sign in to that.
+一个活起来的遗憾生活沥青，因为我们学院的成本。同样，这是免费提供的，您只需要登录即可。
+
+2023/10/16 09:25:45
+Um, and yeah, you could take a few hours overview course, which is a bit more of a systematic introduction then I was able to offer right now here, since I popped into the cost so that it's asking me to pick up the point where I, had left off before.
+嗯，是的，你可以参加几个小时的概述课程，这更像是一个系统的介绍，然后我现在能够在这里提供，因为我弹出了成本，所以它要求我从我之前离开的地方继续。
+
+2023/10/16 09:25:50
+Um, and this would be a nice online.
+嗯，这将是一个很好的在线。
+
+2023/10/16 09:25:58
+Cos it, um, there is. And that's an example as well.
+因为它，嗯，有。这也是一个例子。
+
+2023/10/16 09:26:03
+Um, quite a few star maps available.
+嗯，有不少星图可用。
+
+2023/10/16 09:26:30
+In the living Atlas, introducing you to particular topics. Or in this case, that's a story map by, um, one of my favorite teachers in that domain a demonstrating how to leverage the living Atlas content in your own style. Yeah, so that's kind of a tutorial. I'm just to make sure you um.
+在生活地图集中，向您介绍特定主题。或者在这种情况下，这是一个故事地图，嗯，我最喜欢的老师之一，演示如何以自己的风格利用活的Atlas内容。是的，所以这是一个教程。我只是为了确保你嗯。
+
+2023/10/16 09:26:36
+Have access to that. Let me put this into the chat as well, that's the.
+可以访问它。让我把这个也放进聊天中，就是这样。
+
+2023/10/16 09:26:39
+A map how to?
+地图怎么做？
+
+2023/10/16 09:26:47
+Here it goes. And maybe let me take this other thing.
+来了。也许让我拿另一件事。
+
+2023/10/16 09:26:58
+The main stage as the academy calls here as well, so you do have it in the chat. Yeah, that should work as well.
+学院在这里调用的主舞台也在这里，所以你在聊天中确实有它。是的，这也应该有效。
+
+2023/10/16 09:27:03
+Last point, which is one of the little used.
+最后一点，这是很少使用的一点。
+
+2023/10/16 09:27:19
+Let me say too little is three sauces up, um, which is the essay community, which essentially is kind of a social media community of Ji's professionals.
+让我说太少了，嗯，这是论文社区，本质上是Ji的专业人士的社交媒体社区。
+
+2023/10/16 09:27:25
+Um, you can sign in there again with your standard account.
+嗯，您可以使用标准帐户再次登录。
+
+2023/10/16 09:27:35
+A typically we refer to that as the the community, but when we say the community, it actually means it's a lot of communities because.
+通常我们称之为社区，但当我们说社区时，它实际上意味着它有很多社区，因为。
+
+2023/10/16 09:27:37
+People who work with.
+与之合作的人。
+
+2023/10/16 09:27:54
+Building dashboards or do a quick capture. So it's kind of special interests on one product or one type of usage. So this is in the way the sub community, I'm in there and if you need quick help with something.
+构建仪表板或执行快速捕获。因此，这是一种产品或一种用途的特殊兴趣。所以这是子社区的方式，我在那里，如果你需要快速的帮助。
+
+2023/10/16 09:29:12
+You cannot find it doesn't work in the way are you expected to work, or you don't find the detail metal data. That's the fos to ste way to get help. So if I go back to the top level out of the sub community to the top level, platform um you can see that it's currently eighteen hundred people online. In the last day there was a couple hundred thousand posts. A and you can filter that by products by interest here I'm looking at kind of all communities. So for instance if I go to access online um and I need a help for a particular product, then it would go here. If I subscribe it means a new postings I get into my mail box. That might be too much of a good sink right? So I'm not subscribing to all the questions a lot people who post ideas but only to block entries, documents and new videos published and with this subscribe then um that could change that any time I wanted to, um I could go back to.
+你找不到它不工作的方式，或者你找不到详细的金属数据。这是获得帮助的 fos 方法。所以如果我回到子社区的顶层到顶层，平台嗯你可以看到它目前有一千八百人在线。在最后一天，有几十万个帖子。A，您可以按兴趣按产品过滤，我在这里查看所有社区。因此，例如，如果我去在线访问um并且我需要特定产品的帮助，那么它会转到此处。如果我订阅，这意味着我进入邮箱的新帖子。这可能太好了吧？所以我并没有订阅很多发布想法的人的所有问题，而只是阻止发布的条目、文档和新视频，然后通过此订阅，嗯，可以随时更改，嗯我可以回到。
+
+2023/10/16 09:29:21
+Was that a I'll close give you a few minutes if you want to ask any any questions.
+是不是我想问任何问题，我会结束给你几分钟。
+
+2023/10/16 09:29:23
+OH.
+哦。
+
+2023/10/16 09:29:30
+Feel free to a, yeah, just unmute yourself. Go ahead.
+随意，是的，只需取消静音即可。继续。
+
+2023/10/16 09:29:34
+That's the only one waste. And so that should be safe.
+这是唯一的浪费。所以这应该是安全的。
+
+2023/10/16 09:29:52
+Um, hi trouble. Can you hear me okay? Helen was faster. You'll go fast. Okay, so I just have a quick question, which is, um, so I I notice that this is it live feeds, maps that touch.
+嗯，嗨麻烦。你能听到我说话吗？海伦更快。你会走得很快。好的，所以我只是有一个快速的问题，那就是，嗯，所以我注意到这是实时提要，触摸的地图。
+
+2023/10/16 09:30:09
+Yeah, can you use that also for a, let's say, disaster monitoring and stuff like live disaster monitoring? Oh, is the resolution a bit too long? Um, no, the resolution is entirely what the whole thing is a.
+是的，您能否将其也用于论坛，例如灾难监控和实时灾难监控之类的东西？哦，分辨率是不是有点太长了？嗯，不，决议完全是整个事情。
+
+2023/10/16 09:30:20
+Depends on your question. Yeah, that would not be a technology, a platform question, um, you might or might not have the live feeds already available like.
+取决于您的问题。是的，这不是一项技术，一个平台问题，嗯，你可能已经有也可能没有实时提要。
+
+2023/10/16 09:30:23
+Um, we had the example of the earthquakes.
+嗯，我们有地震的例子。
+
+2023/10/16 09:30:32
+These are always use their that's both monitoring networks and defeating two that there might be cases where you need to set up your own life feed.
+这些总是使用他们的既是监控网络，又是击败两个可能在某些情况下你需要设置自己的生活提要。
+
+2023/10/16 09:31:10
+Then it's not coming from the living Atlas. So they wouldn't be necessarily everything you need for a particular region. In the particular scale for a type of potential disaster whisk uh-huh. So some might be available, some might not. So quite often you might want to mix it because you there's no need to set up your own. Slope dataset. Um, but if you want to feed in the like flooding levels, um, then there has to be someone providing that could be you, or could be awesome European agency who is doing that within our. So yeah.
+然后它不是来自活的阿特拉斯。因此，它们不一定是特定地区所需的一切。在一种潜在灾难的特定规模中，嗯嗯。因此，有些可能可用，有些可能不可用。所以很多时候你可能想混合它，因为你不需要设置自己的。坡度数据集。嗯，但是如果你想在类似的洪水水平中进食，嗯，那么必须有人提供可能是你，或者可能是很棒的欧洲机构，他们正在我们内部这样做。所以是的。
+
+2023/10/16 09:31:20
+But there would be no constraints regarding scale, and when I say scale, it might be special, it might be oil, it might be another.
+但是规模不会有任何限制，当我说规模时，它可能是特殊的，可能是石油，可能是另一种。
+
+2023/10/16 09:31:32
+Okay, yeah, thanks. Thank you. I I had already posted another of my questions in the q and a, but our later. Oh, that's interesting because I don't see that yet. But I will go there. Okay, Williams? Oh, um, oh.
+好的，是的，谢谢。谢谢。我已经在问答中发布了我的另一个问题，但是我们后来。哦，这很有趣，因为我还没有看到。但我会去那里。好的，威廉姆斯？哦，嗯，哦。
+
+2023/10/16 09:31:38
+Oh, um, can you hear me? Yes. Can I hear your bow? Okay, sir, I'm.
+哦，嗯，你能听到我说话吗？是的。我能听到你的弓声吗？好的，先生，我是。
+
+2023/10/16 09:31:52
+Oh my. My question should be different because, um, what I noticed from over the weekend when I log into my APP, VIA its online at the top right hand corner where my name and um.
+天呐。我的问题应该有所不同，因为，嗯，当我登录我的应用程序时，我在周末注意到了什么，VIA它在右上角的右上角在线，我的名字和嗯。
+
+2023/10/16 09:32:01
+Last name is Bush. Ooh, I don't see my name. Rather, what I see is first name on a first name on the score. Last name is very good limo, yeah.
+姓布什。哦，我没有看到我的名字。相反，我看到的是分数上的名字上的名字。姓氏是非常好的豪华轿车，是的。
+
+2023/10/16 09:32:14
+Please go. Um, yeah, it's still showing a go here and then actually want very much to do that. You click on that, so that's empty. Then you click on my profile.
+请走。嗯，是的，它仍然在这里显示一个尝试，然后实际上非常想要这样做。你点击它，所以它是空的。然后你点击我的个人资料。
+
+2023/10/16 09:32:21
+Um, and editing.
+A，和编辑。
+
+2023/10/16 09:32:52
+Okay, okay. Yeah, we please do so because I know the way some of your accounts have been set up. Um, they keep it kind of anonymous, but whenever any question comes from you, um, it's pretty hard to deal with. So just go here, go to my profile, you can go to my settings for some other stuff. My settings is, for instance where you download that jesper. Yeah, you ask anyone get it right from there and in my profile you attention, okay?
+好的 好的。是的，我们请这样做，因为我知道您的某些帐户的设置方式。嗯，他们保持匿名，但每当你有任何问题时，嗯，这很难处理。所以只需转到此处，转到我的个人资料，您可以转到我的设置以获取其他内容。例如，我的设置是下载该jesper的位置。是的，你问任何人从那里得到它，在我的个人资料中你注意，好吗？
+
+2023/10/16 09:33:02
+Thank you, Sara. So, um, let me, um, helmer had the other question you refer to in the q and a with languages, right?
+谢谢你，萨拉。所以，嗯，让我，嗯，赫尔默有你在语言问题中提到的另一个问题，对吗？
+
+2023/10/16 09:33:04
+I'm.
+我。
+
+2023/10/16 09:33:13
+Just to follow that this two, two sides to that input interface language and the content language, this is clearly two different beasts.
+只是遵循这两个，两个侧面的输入界面语言和内容语言，这显然是两个不同的野兽。
+
+2023/10/16 09:33:49
+A you are asking for a translation for datasets, right, which would be the content, not the interfacing interfacing concept. Yeah, you said your profile language. Um, in the profile. Um, there is quite a lot of stuff in the works, a essentially with pretty much state of the other AI based translation. Um, I've not explored that from the living aspect iv but I for instance have been using hosted as, we content in survey one, two, three.
+答：你要求对数据集进行翻译，对吧，这将是内容，而不是接口接口概念。是的，你说了你的个人资料语言。嗯，在配置文件中。嗯，有很多东西在工作，基本上与其他基于 AI 的翻译几乎是相同的状态。嗯，我没有从生活方面 iv 探讨过这一点，但例如我一直在使用托管作为，我们在调查一、二、三中的内容。
+
+2023/10/16 09:34:28
+Um, and the um for instance, translation of legend items into any language or the choice a, which is done life and dynamically um was I could work with. Yeah, so this is certainly a topic which is in flux and a lot is happening out there. Um, I'm pretty sure I'm not up to the um current state input. In my view. It would be very clear question. Look at any particular dataset you are interested in whether to apply to your inquest a and posted in the community.
+嗯，例如，将图例项目翻译成任何语言或选择 a，这是我可以使用的生活和动态 um 来完成的。是的，所以这当然是一个不断变化的话题，而且那里正在发生很多事情。嗯，我很确定我达不到 um 当前状态输入。在我看来。这将是一个非常明确的问题。查看您感兴趣的任何特定数据集，是否适用于您的调查并发布在社区中。
+
+2023/10/16 09:34:39
+Yeah. Um, but yeah, its AI cannot directly answer that with any kind of binary, yes or no answer. Um, but I've seen a great examples, yeah.
+是的。嗯，但是是的，它的人工智能不能用任何类型的二进制直接回答这个问题，是或否答案。嗯，但我见过一个很好的例子，是的。
+
+2023/10/16 09:34:44
+So last call for.
+所以最后的呼吁。
+
+2023/10/16 09:34:46
+Any.
+任何。
+
+2023/10/16 09:34:59
+I have a one more question please go ahead. A what about the data quality? Is everything in the living Atlas as recreated and trustworthy, or do we have to check individually?
+我还有一个问题，请继续。答：数据质量如何？活的地图册中的所有内容都是重新创建和值得信赖的，还是我们必须单独检查？
+
+2023/10/16 09:35:28
+Um, well, um, the, the short answer very clearly would be no, no, because this in way issa community platform as well. You can for instance, look for poo is called community maps where you find a university campus maps from around the world. A municipalities put in the detail maps. So in order to help with that there is this one tag I was showing but it says also initiative.
+嗯，嗯，嗯，简短的回答很明显是否定的，不，因为这也是伊萨社区平台的方式。例如，您可以查找便便称为社区地图，您可以在其中找到来自世界各地的大学校园地图。市政当局放入详细地图。所以为了帮助解决这个问题，我展示了一个标签，但它也说主动性。
+
+2023/10/16 09:35:38
+Um, then it's curated. Accumulated still means it's a higher level of trust, bluffing and life is perfect.
+嗯，那就策划了。积累仍然意味着它更高水平的信任，虚张声势，生活是完美的。
+
+2023/10/16 09:35:51
+Um, and in the end, a, you would just need to, to look for the description, essentially the metal data and the sources for each and every individually dataset.
+嗯，最后，你只需要寻找描述，基本上是金属数据和每个单独数据集的来源。
+
+2023/10/16 09:36:32
+Um, in many cases, like the European environmental agency publishes their data through the living Atlas. So you refer to that, you would have a link back to the EEA. Um, so it would be a case by case assessment and the they tag this batch was showing which, set a surratt iv a that helps with that but would definitely encourage everyone who goes a bit, deeper. Where do we have a nice example of that? Um, let me go back here. You look for let me say.
+嗯，在许多情况下，像欧洲环境机构一样通过活的地图集发布他们的数据。所以你提到这一点，你会有一个回到欧洲经济区的链接。嗯，所以这将是一个个案评估，他们标记这批显示哪个，设置一个 surratt iv a 有助于解决这个问题，但肯定会鼓励每个走得更深的人。我们在哪里有一个很好的例子？嗯，让我回到这里。你找让我说。
+
+2023/10/16 09:36:37
+I'm intentionally going forward use instead of line cover.
+我故意继续使用而不是线路覆盖。
+
+2023/10/16 09:36:39
+And I.
+而我。
+
+2023/10/16 09:36:47
+Um, you, for instance, you see pretty much everything which is, you know, is um.
+嗯，例如，你几乎看到了所有的东西，你知道，是嗯。
+
+2023/10/16 09:37:04
+Um, oh yes. Um is completely synchronized to the living Atlas a in a monthly interval and I think they're about to switch it over to. Daily. Um, so let's go the length of is my new South Africa? Yeah.
+嗯，哦，是的。Um每月与活的Atlas a完全同步，我认为他们即将将其切换到。日常。嗯，那我们来看看我的新南非吗？是的。
+
+2023/10/16 09:37:35
+No need to grab it yourself and here's a lot of description, um, and linked to other sauces and um, what's the oh SM policy, um, for the catalog which categorize tools. So essentially going back to my original attempted an answer, it's a case by case that's not to be critical looking metal data, um, and to assess yourself, the trustworthiness of whatever you want to work with.
+无需自己抓住它，这里有很多描述，嗯，并链接到其他酱汁和嗯，哦，SM 政策是什么，嗯，对于分类工具的目录。所以基本上回到我最初尝试的答案，这是一个个案，不是批判性的金属数据，嗯，并评估你自己，任何你想使用的东西的可信度。
+
+2023/10/16 09:37:42
+That's very good and important question. Yeah, it's.
+这是一个非常好和重要的问题。是的，它是。
+
+2023/10/16 09:37:56
+A authority and and qa here it might be quite mixed.
+权威和 qa 在这里可能是相当混合的。
+
+2023/10/16 09:38:01
+Good with that, I close it off for today.
+很好，我今天结束它。
+
+2023/10/16 09:38:18
+Um, the next week we will get started with our, um, invited speakers, variety of topic, um, those will be moderated either by, I know, not circular on myself, but sometimes both of us.
+嗯，下周我们将从我们的，嗯，受邀演讲者开始，各种主题，嗯，这些将由，我知道，不是我自己，但有时我们两个人都会主持。
+
+2023/10/16 09:38:39
+A great start into the week. If any questions pop up in your mind after this session today, um, then simply help me a lot. Um, and if you don't get an answer after the next weekend, remind me of what you have been asking me. Um, again. Have a great day. Bye for now.
+本周的良好开端。如果在今天的会议之后，你的脑海中突然出现任何问题，嗯，那么只需帮助我很多。嗯，如果你在下个周末之后没有得到答案，请提醒我你一直在问我什么。嗯，再说一遍。祝你有美好的一天。再见。
+
+2023/10/16 09:38:54
+Woo.
+追求。
+

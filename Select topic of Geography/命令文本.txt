@@ -1,0 +1,24 @@
+#第一段
+我上了GIS专业的一节课，名称叫Creating and sharing web maps，是基于Arcgis online的Map实现的。我现在需要你基于我提供的课程教学录音（文字版），撰写在这门课中学到了什么，有什么感受等内容。我下面会首先为你提供一个我以前针对另一节名为Living atlas的课程撰写的学习感想，请将这份文稿作为参照。再之后，我就会给你发Creating and sharing web maps这节课的课程教学录音，你明白了吗？
+
+#第二段
+这是我针对名为Living atlas的课程所撰写的学习感想，请先学习他的风格：
+Introduction
+The topic of this lecture is an introduction to the Esri Living Atlas, a comprehensive collection of geographic information, including maps, apps, and data layers to support our work. Prof. Strobl have provided us with the clear steps on how to use these online maps.
+Thoughts
+The lecture introduced me with the concept of the Living Atlas, which served as a valuable resource from visualization and cartography to spatial analysis. In my point of view, it can act as an inspiration for my future research directions while viewing others’ approaches on resolving problems. 
+One of the key takeaways was learning how to access the Living Atlas, and the app launcher is the gateway to this valuable resource. Living Atlas covers topics such as base maps, imagery, boundaries, demographics and so on. I was particularly impressed by the availability of high-resolution satellite imagery and datasets, like the population data down to 100-meter resolution, which can help us to do precise analysis combined with dataset such as the Nightlight Imagery, Mobile Signaling data and Taxi Moving data. This reminds me with a research group in East China Normal University, who has done quantities of work on the combination research related to nighttime light remote sensing and population estimation, rebuilding, and analyzing population raster based on various datasets. Furthermore, the Living Atlas offers data from authoritative sources, so this platform is a one-stop shop for geospatial data, which simplifies the process of finding and accessing the right data for various projects. 
+Another interesting aspect of the lecture was the emphasis on the quality and reliability of the datasets. In Living Atlas, each dataset is tagged with labels, indicating its source and credibility, which is essential for us to conduct geospatial analysis or research. Generally, whether data is suitable for experimental research is far more important than the quality of the data itself.
+Apart from Living Atlas, GIS training is also a vital part on our way to an excellent GISer, which can be easily accessed via URL https://www.esri.com/training/. This platform offers us thousands of courses covering many basic or advanced GIS skills we need to learn, such as the ability to do spatial analysis and develop related apps, which really helps us to teach ourselves.
+Overall, my experience in the introduction has opened my eyes to the wealth of geospatial data and tools available through the Esri Living Atlas. This lecture has been a valuable journey into a new world of geospatial data through ArcGIS online, and I look forward to applying this knowledge in my future research and projects.
+Discussion
+While using the search engine in Browse, the search parameters can be combined with some built-in parameters to limit the search range. This can not only give us the precise result we need, but also offers the information about the related research groups. 
+
+
+#第三段
+好的，下面就是"Creating and sharing web maps" 的课程录音：
+xxxx（可以复制20分钟左右，可以放下）
+
+#第四段：
+你没有按照我的要求来！我前面不是给你提供了供你学习的范例吗？我的范例分为introduction、thoughts和discussion三部分！而且，你的回答太正式了，我需要的是你在听取了这门课后的感想。而且你的回答太少了，至少一页A4纸。用英文写！
+Thoughts部分的内容占主要部分，discussion部分的内容要简短！意思重复的句子尽量要少。

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="xtext.quickoutline">
+		<item key="msi.gama.lang.gaml.ui.editor.toolbar.GamlQuickOutlinePopupDIALOG_X_ORIGIN" value="625"/>
+		<item key="msi.gama.lang.gaml.ui.editor.toolbar.GamlQuickOutlinePopupDIALOG_Y_ORIGIN" value="138"/>
+		<item key="msi.gama.lang.gaml.ui.editor.toolbar.GamlQuickOutlinePopupDIALOG_USE_PERSISTED_SIZE" value="false"/>
+		<item key="msi.gama.lang.gaml.ui.editor.toolbar.GamlQuickOutlinePopupDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+	</section>
+</section>

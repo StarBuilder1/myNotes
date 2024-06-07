@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 2024年1月22日 0:21:32</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "d:\software\arcgispro03\Resources\ArcToolbox\scripts\calculategeometry.py", line 366, in &lt;module&gt;
+    CalculateGeometry(fc, properties, lUnit, aUnit, cs, cformat)
+  File "d:\software\arcgispro03\Resources\ArcToolbox\scripts\calculategeometry.py", line 32, in CalculateGeometry
+    wkspc = aga.GetWorkspace(fc)
+  File "d:\software\arcgispro03\Resources\ArcToolbox\scripts\AddGeometryAttributes.py", line 386, in GetWorkspace
+    workspace_desc = arcpy.Describe(workspace)
+  File "D:\SoftWare\ArcGISpro03\Resources\ArcPy\arcpy\__init__.py", line 1335, in Describe
+    return gp.describe(value, data_type)
+  File "D:\SoftWare\ArcGISpro03\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 392, in describe
+    self._gp.Describe(*gp_fixargs(args, True)))
+OSError: ".\ViewShed_Project.gdb" does not exist
+</msg><msg code="0" type="0">Failed script Calculate Geometry Attributes...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGeometryAttributes).</msg><msg code="0" type="3">Failed at 2024年1月22日 0:21:32 (Elapsed Time: 0.48 seconds)</msg></messages>
